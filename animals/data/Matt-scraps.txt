@@ -1,0 +1,43 @@
+google.visualization.arrayToDataTable([
+                    ['Shelter', 'Animal ID#', 'Intake Date', 'Intake Type', 'Intake Condition', 'Animal Type', 'Group', 'Breed 1'],
+                    ['S LA', 'A0930962', '12/31/2013', 'EVIDENCE', 'ALIVE', 'DOG', 'MASTIFF', 'PIT BULL'],
+                    ['S LA','A0930963','12/31/2013', 'EVIDENCE', 'ALIVE', 'DOG',  'MASTIFF', 'PIT BULL'],
+                    ['W VALLEY', 'A0942181', '12/31/2013', 'POS OWNER', 'ALIVE', 'DOG', 'MASTIFF', 'PIT BULL'],
+                    ['S LA', 'A1083297', '12/31/2013', 'POS OWNER', 'ALIVE', 'DOG', 'POODLE', 'POODLE TOY' ],
+                    ['E VALLEY', 'A1318842', '12/31/2013', 'OWNER SUR', 'ALIVE', 'DOG', 'MASTIFF', 'STAFFORDSHIRE'],
+                    ['N CENTRA', 'A1366983', '12/31/2013', 'POS OWNER', 'ALIVE', 'DOG', 'HOUND', 'BASSET HOUND'],
+                    ['E VALLEY', 'A1384279', '12/31/2013', 'OWNER SUR', 'ALIVE', 'DOG', 'SETTER/RETRIEVE','LABRADOR RETR', ],
+                    ['E VALLEY', 'A1425394', '12/31/2013', 'OWNER SUR', 'ALIVE', 'BIRD', 'FOWL', 'CHICKEN'],
+                    ['N CENTRA', 'A1425830', '12/31/2013', 'OWNER SUR', 'DEAD', 'DOG', 'TOY', 'CHIHUAHUA SH'],
+                    ['W VALLEY', 'A1428406', '12/31/2013', 'OWNER SUR', 'ALIVE', 'CAT', 'LONGHAIR', 'DOMESTIC MH'],
+                    ['E VALLEY', 'A1429713', '12/31/2013', 'OWNER SUR', 'ALIVE', 'DOG', 'SPITZ', 'SIBERIAN HUSKY'],
+                    ['E VALLEY', 'A1441819', '12/31/2013', 'OWNER SUR', 'DEAD', 'DOG', 'SPANIEL', 'COCKER SPAN'],
+                    ['W VALLEY', 'A1445337', '12/31/2013', 'STRAY', 'ALIVE', 'DOG', 'SPANIEL', 'CAVALIER SPAN'],
+                    ['W LA', 'A1445363', '12/31/2013', 'STRAY', 'ALIVE', 'CAT', 'SHORTHAIR', 'DOMESTIC SH']
+                    ]);
+                    
+mongoimport --db animal_service --collection animal_service_coll --type json --file animal_data.json --jsonArray
+
+db.animal_service_coll.mapReduce(
+            function() { emit(this.Group, 1); },
+            function(key, value) { return Array.sum(value) },
+            { out: "group_counts" }
+);
+
+
+var mongoose = require('mongoose');
+
+var AnimalSchema = new mongoose.Schema({
+  _id: String,
+  value: Number,
+},
+{
+    collection: 'group_counts'
+});
+
+mongoose.model('Animal', AnimalSchema);
+
+
+https://bigassignment1-timmycat351994.c9users.io/animals
+
+mongoose.connect('mongodb://localhost/animal_service');

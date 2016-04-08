@@ -1,0 +1,2192 @@
+[
+  {
+    "FIELD1":"Shelter",
+    "FIELD2":"Animal ID#",
+    "FIELD3":"Intake Date",
+    "FIELD4":"Intake Type",
+    "FIELD5":"Intake Condition",
+    "FIELD6":"Animal Type",
+    "FIELD7":"Group",
+    "FIELD8":"Breed 1"
+  },
+  {
+    "FIELD1":"S LA",
+    "FIELD2":"A0930962",
+    "FIELD3":"12/31/2013",
+    "FIELD4":"EVIDENCE",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"MASTIFF",
+    "FIELD8":"PIT BULL"
+  },
+  {
+    "FIELD1":"S LA",
+    "FIELD2":"A0930963",
+    "FIELD3":"12/31/2013",
+    "FIELD4":"EVIDENCE",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"MASTIFF",
+    "FIELD8":"PIT BULL"
+  },
+  {
+    "FIELD1":"W VALLEY",
+    "FIELD2":"A0942181",
+    "FIELD3":"12/31/2013",
+    "FIELD4":"POS OWNER",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"MASTIFF",
+    "FIELD8":"PIT BULL"
+  },
+  {
+    "FIELD1":"S LA",
+    "FIELD2":"A1083297",
+    "FIELD3":"12/31/2013",
+    "FIELD4":"POS OWNER",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"POODLE",
+    "FIELD8":"POODLE TOY"
+  },
+  {
+    "FIELD1":"E VALLEY",
+    "FIELD2":"A1318842",
+    "FIELD3":"12/31/2013",
+    "FIELD4":"OWNER SUR",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"MASTIFF",
+    "FIELD8":"STAFFORDSHIRE"
+  },
+  {
+    "FIELD1":"N CENTRA",
+    "FIELD2":"A1366983",
+    "FIELD3":"12/31/2013",
+    "FIELD4":"POS OWNER",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"HOUND",
+    "FIELD8":"BASSET HOUND"
+  },
+  {
+    "FIELD1":"E VALLEY",
+    "FIELD2":"A1384279",
+    "FIELD3":"12/31/2013",
+    "FIELD4":"OWNER SUR",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"SETTER/RETRIEVE",
+    "FIELD8":"LABRADOR RETR"
+  },
+  {
+    "FIELD1":"E VALLEY",
+    "FIELD2":"A1425394",
+    "FIELD3":"12/31/2013",
+    "FIELD4":"OWNER SUR",
+    "FIELD5":"ALIVE",
+    "FIELD6":"BIRD",
+    "FIELD7":"FOWL",
+    "FIELD8":"CHICKEN"
+  },
+  {
+    "FIELD1":"N CENTRA",
+    "FIELD2":"A1425830",
+    "FIELD3":"12/31/2013",
+    "FIELD4":"OWNER SUR",
+    "FIELD5":"DEAD",
+    "FIELD6":"DOG",
+    "FIELD7":"TOY",
+    "FIELD8":"CHIHUAHUA SH"
+  },
+  {
+    "FIELD1":"W VALLEY",
+    "FIELD2":"A1428406",
+    "FIELD3":"12/31/2013",
+    "FIELD4":"OWNER SUR",
+    "FIELD5":"ALIVE",
+    "FIELD6":"CAT",
+    "FIELD7":"LONGHAIR",
+    "FIELD8":"DOMESTIC MH"
+  },
+  {
+    "FIELD1":"E VALLEY",
+    "FIELD2":"A1429713",
+    "FIELD3":"12/31/2013",
+    "FIELD4":"OWNER SUR",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"SPITZ",
+    "FIELD8":"SIBERIAN HUSKY"
+  },
+  {
+    "FIELD1":"E VALLEY",
+    "FIELD2":"A1438933",
+    "FIELD3":"12/31/2013",
+    "FIELD4":"POS OWNER",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"MASTIFF",
+    "FIELD8":"STAFFORDSHIRE"
+  },
+  {
+    "FIELD1":"S LA",
+    "FIELD2":"A1440066",
+    "FIELD3":"12/31/2013",
+    "FIELD4":"OWNER SUR",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"MASTIFF",
+    "FIELD8":"PIT BULL"
+  },
+  {
+    "FIELD1":"W LA",
+    "FIELD2":"A1441120",
+    "FIELD3":"12/31/2013",
+    "FIELD4":"OWNER SUR",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"SETTER/RETRIEVE",
+    "FIELD8":"LABRADOR RETR"
+  },
+  {
+    "FIELD1":"E VALLEY",
+    "FIELD2":"A1441819",
+    "FIELD3":"12/31/2013",
+    "FIELD4":"OWNER SUR",
+    "FIELD5":"DEAD",
+    "FIELD6":"DOG",
+    "FIELD7":"SPANIEL",
+    "FIELD8":"COCKER SPAN"
+  },
+  {
+    "FIELD1":"S LA",
+    "FIELD2":"A1444221",
+    "FIELD3":"12/31/2013",
+    "FIELD4":"OWNER SUR",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"SETTER/RETRIEVE",
+    "FIELD8":"LABRADOR RETR"
+  },
+  {
+    "FIELD1":"W VALLEY",
+    "FIELD2":"A1444357",
+    "FIELD3":"12/31/2013",
+    "FIELD4":"OWNER SUR",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"SETTER/RETRIEVE",
+    "FIELD8":"LABRADOR RETR"
+  },
+  {
+    "FIELD1":"W VALLEY",
+    "FIELD2":"A1445337",
+    "FIELD3":"12/31/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"SPANIEL",
+    "FIELD8":"CAVALIER SPAN"
+  },
+  {
+    "FIELD1":"W LA",
+    "FIELD2":"A1445363",
+    "FIELD3":"12/31/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"ALIVE",
+    "FIELD6":"CAT",
+    "FIELD7":"SHORTHAIR",
+    "FIELD8":"DOMESTIC SH"
+  },
+  {
+    "FIELD1":"W VALLEY",
+    "FIELD2":"A1445365",
+    "FIELD3":"12/31/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"ALIVE",
+    "FIELD6":"OTHER",
+    "FIELD7":"RABBIT",
+    "FIELD8":"WILD"
+  },
+  {
+    "FIELD1":"N CENTRA",
+    "FIELD2":"A1445334",
+    "FIELD3":"12/31/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"LITTER",
+    "FIELD6":"DOG",
+    "FIELD7":"MASTIFF",
+    "FIELD8":"PIT BULL"
+  },
+  {
+    "FIELD1":"N CENTRA",
+    "FIELD2":"A1445352",
+    "FIELD3":"12/31/2013",
+    "FIELD4":"POS OWNER",
+    "FIELD5":"ALIVE",
+    "FIELD6":"CAT",
+    "FIELD7":"LONGHAIR",
+    "FIELD8":"DOMESTIC LH"
+  },
+  {
+    "FIELD1":"E VALLEY",
+    "FIELD2":"A1445369",
+    "FIELD3":"12/31/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"TOY",
+    "FIELD8":"CHIHUAHUA SH"
+  },
+  {
+    "FIELD1":"W LA",
+    "FIELD2":"A1445375",
+    "FIELD3":"12/31/2013",
+    "FIELD4":"OWNER SUR",
+    "FIELD5":"ALIVE",
+    "FIELD6":"CAT",
+    "FIELD7":"SHORTHAIR",
+    "FIELD8":"DOMESTIC SH"
+  },
+  {
+    "FIELD1":"W LA",
+    "FIELD2":"A1445376",
+    "FIELD3":"12/31/2013",
+    "FIELD4":"OWNER SUR",
+    "FIELD5":"ALIVE",
+    "FIELD6":"CAT",
+    "FIELD7":"SHORTHAIR",
+    "FIELD8":"DOMESTIC SH"
+  },
+  {
+    "FIELD1":"W VALLEY",
+    "FIELD2":"A1445377",
+    "FIELD3":"12/31/2013",
+    "FIELD4":"OWNER SUR",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"TOY",
+    "FIELD8":"POMERANIAN"
+  },
+  {
+    "FIELD1":"N CENTRA",
+    "FIELD2":"A1445380",
+    "FIELD3":"12/31/2013",
+    "FIELD4":"WILDLIFE",
+    "FIELD5":"ALIVE",
+    "FIELD6":"OTHER",
+    "FIELD7":"MAMMAL",
+    "FIELD8":"OPOSSUM"
+  },
+  {
+    "FIELD1":"S LA",
+    "FIELD2":"A1445382",
+    "FIELD3":"12/31/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"MASTIFF",
+    "FIELD8":"STAFFORDSHIRE"
+  },
+  {
+    "FIELD1":"HARBOR",
+    "FIELD2":"A1445402",
+    "FIELD3":"12/31/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"TOY",
+    "FIELD8":"PAPILLON"
+  },
+  {
+    "FIELD1":"S LA",
+    "FIELD2":"A1445426",
+    "FIELD3":"12/31/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"TOY",
+    "FIELD8":"CHIHUAHUA SH"
+  },
+  {
+    "FIELD1":"S LA",
+    "FIELD2":"A1445448",
+    "FIELD3":"12/31/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"HOUND",
+    "FIELD8":"BEAGLE"
+  },
+  {
+    "FIELD1":"N CENTRA",
+    "FIELD2":"A1445449",
+    "FIELD3":"12/31/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"ALIVE",
+    "FIELD6":"CAT",
+    "FIELD7":"SHORTHAIR",
+    "FIELD8":"DOMESTIC SH"
+  },
+  {
+    "FIELD1":"S LA",
+    "FIELD2":"A1445460",
+    "FIELD3":"12/31/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"MASTIFF",
+    "FIELD8":"PIT BULL"
+  },
+  {
+    "FIELD1":"W LA",
+    "FIELD2":"A1445475",
+    "FIELD3":"12/31/2013",
+    "FIELD4":"OWNER SUR",
+    "FIELD5":"ALIVE",
+    "FIELD6":"CAT",
+    "FIELD7":"SHORTHAIR",
+    "FIELD8":"DOMESTIC SH"
+  },
+  {
+    "FIELD1":"N CENTRA",
+    "FIELD2":"A1445476",
+    "FIELD3":"12/31/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"POODLE",
+    "FIELD8":"POODLE TOY"
+  },
+  {
+    "FIELD1":"E VALLEY",
+    "FIELD2":"A1445477",
+    "FIELD3":"12/31/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"MASTIFF",
+    "FIELD8":"AMERICAN STAFF"
+  },
+  {
+    "FIELD1":"N CENTRA",
+    "FIELD2":"A1445478",
+    "FIELD3":"12/31/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"SETTER/RETRIEVE",
+    "FIELD8":"GOLDEN RETR"
+  },
+  {
+    "FIELD1":"S LA",
+    "FIELD2":"A1445480",
+    "FIELD3":"12/31/2013",
+    "FIELD4":"POS OWNER",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"MASTIFF",
+    "FIELD8":"AM PIT BULL TER"
+  },
+  {
+    "FIELD1":"S LA",
+    "FIELD2":"A1445481",
+    "FIELD3":"12/31/2013",
+    "FIELD4":"POS OWNER",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"MASTIFF",
+    "FIELD8":"AM PIT BULL TER"
+  },
+  {
+    "FIELD1":"N CENTRA",
+    "FIELD2":"A1445482",
+    "FIELD3":"12/31/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"MASTIFF",
+    "FIELD8":"BOXER"
+  },
+  {
+    "FIELD1":"N CENTRA",
+    "FIELD2":"A1445486",
+    "FIELD3":"12/31/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"DEAD",
+    "FIELD6":"CAT",
+    "FIELD7":"SHORTHAIR",
+    "FIELD8":"DOMESTIC SH"
+  },
+  {
+    "FIELD1":"S LA",
+    "FIELD2":"A1445339",
+    "FIELD3":"12/31/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"TOY",
+    "FIELD8":"YORKSHIRE TERR"
+  },
+  {
+    "FIELD1":"E VALLEY",
+    "FIELD2":"A1445361",
+    "FIELD3":"12/31/2013",
+    "FIELD4":"OWNER SUR",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"SETTER/RETRIEVE",
+    "FIELD8":"LABRADOR RETR"
+  },
+  {
+    "FIELD1":"E VALLEY",
+    "FIELD2":"A1445366",
+    "FIELD3":"12/31/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"TERRIER",
+    "FIELD8":"WEST HIGHLAND"
+  },
+  {
+    "FIELD1":"E VALLEY",
+    "FIELD2":"A1445389",
+    "FIELD3":"12/31/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"ALIVE",
+    "FIELD6":"CAT",
+    "FIELD7":"SHORTHAIR",
+    "FIELD8":"DOMESTIC SH"
+  },
+  {
+    "FIELD1":"S LA",
+    "FIELD2":"A1445392",
+    "FIELD3":"12/31/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"ALIVE",
+    "FIELD6":"CAT",
+    "FIELD7":"SHORTHAIR",
+    "FIELD8":"DOMESTIC SH"
+  },
+  {
+    "FIELD1":"E VALLEY",
+    "FIELD2":"A1445393",
+    "FIELD3":"12/31/2013",
+    "FIELD4":"POS OWNER",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"COLLIE",
+    "FIELD8":"AUST SHEPHERD"
+  },
+  {
+    "FIELD1":"N CENTRA",
+    "FIELD2":"A1445408",
+    "FIELD3":"12/31/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"ALIVE",
+    "FIELD6":"CAT",
+    "FIELD7":"LONGHAIR",
+    "FIELD8":"DOMESTIC MH"
+  },
+  {
+    "FIELD1":"E VALLEY",
+    "FIELD2":"A1445409",
+    "FIELD3":"12/31/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"< 8 WEEKS",
+    "FIELD6":"DOG",
+    "FIELD7":"TOY",
+    "FIELD8":"CHIHUAHUA SH"
+  },
+  {
+    "FIELD1":"S LA",
+    "FIELD2":"A1445414",
+    "FIELD3":"12/31/2013",
+    "FIELD4":"OWNER SUR",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"TOY",
+    "FIELD8":"POMERANIAN"
+  },
+  {
+    "FIELD1":"W LA",
+    "FIELD2":"A1445415",
+    "FIELD3":"12/31/2013",
+    "FIELD4":"WILDLIFE",
+    "FIELD5":"ALIVE",
+    "FIELD6":"BIRD",
+    "FIELD7":"WILD",
+    "FIELD8":"HAWK"
+  },
+  {
+    "FIELD1":"W LA",
+    "FIELD2":"A1445416",
+    "FIELD3":"12/31/2013",
+    "FIELD4":"OWNER SUR",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"SETTER/RETRIEVE",
+    "FIELD8":"FLAT COAT RETR"
+  },
+  {
+    "FIELD1":"N CENTRA",
+    "FIELD2":"A1445421",
+    "FIELD3":"12/31/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"TOY",
+    "FIELD8":"BOSTON TERRIER"
+  },
+  {
+    "FIELD1":"W VALLEY",
+    "FIELD2":"A1445432",
+    "FIELD3":"12/31/2013",
+    "FIELD4":"OWNER SUR",
+    "FIELD5":"ALIVE",
+    "FIELD6":"OTHER",
+    "FIELD7":"RODENT",
+    "FIELD8":"RAT"
+  },
+  {
+    "FIELD1":"HARBOR",
+    "FIELD2":"A1445434",
+    "FIELD3":"12/31/2013",
+    "FIELD4":"POS OWNER",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"TERRIER",
+    "FIELD8":"TERRIER MIX"
+  },
+  {
+    "FIELD1":"E VALLEY",
+    "FIELD2":"A1445435",
+    "FIELD3":"12/31/2013",
+    "FIELD4":"WILDLIFE",
+    "FIELD5":"ALIVE",
+    "FIELD6":"BIRD",
+    "FIELD7":"WILD",
+    "FIELD8":"PIGEON"
+  },
+  {
+    "FIELD1":"N CENTRA",
+    "FIELD2":"A1445436",
+    "FIELD3":"12/31/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"ALIVE",
+    "FIELD6":"CAT",
+    "FIELD7":"SHORTHAIR",
+    "FIELD8":"DOMESTIC SH"
+  },
+  {
+    "FIELD1":"S LA",
+    "FIELD2":"A1445439",
+    "FIELD3":"12/31/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"< 8 WEEKS",
+    "FIELD6":"DOG",
+    "FIELD7":"MASTIFF",
+    "FIELD8":"AM PIT BULL TER"
+  },
+  {
+    "FIELD1":"E VALLEY",
+    "FIELD2":"A1445442",
+    "FIELD3":"12/31/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"SHEPHERD",
+    "FIELD8":"WELSH CORGI CAR"
+  },
+  {
+    "FIELD1":"E VALLEY",
+    "FIELD2":"A1445444",
+    "FIELD3":"12/31/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"TOY",
+    "FIELD8":"LHASA APSO"
+  },
+  {
+    "FIELD1":"E VALLEY",
+    "FIELD2":"A1445445",
+    "FIELD3":"12/31/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"POODLE",
+    "FIELD8":"BICHON FRISE"
+  },
+  {
+    "FIELD1":"W LA",
+    "FIELD2":"A1445456",
+    "FIELD3":"12/31/2013",
+    "FIELD4":"POS OWNER",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"MASTIFF",
+    "FIELD8":"BOXER"
+  },
+  {
+    "FIELD1":"W VALLEY",
+    "FIELD2":"A1445457",
+    "FIELD3":"12/31/2013",
+    "FIELD4":"POS OWNER",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"SETTER/RETRIEVE",
+    "FIELD8":"LABRADOR RETR"
+  },
+  {
+    "FIELD1":"N CENTRA",
+    "FIELD2":"A1445458",
+    "FIELD3":"12/31/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"TOY",
+    "FIELD8":"CHIHUAHUA SH"
+  },
+  {
+    "FIELD1":"N CENTRA",
+    "FIELD2":"A1445459",
+    "FIELD3":"12/31/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"TOY",
+    "FIELD8":"CHIHUAHUA SH"
+  },
+  {
+    "FIELD1":"S LA",
+    "FIELD2":"A1445461",
+    "FIELD3":"12/31/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"MASTIFF",
+    "FIELD8":"AMERICAN STAFF"
+  },
+  {
+    "FIELD1":"W LA",
+    "FIELD2":"A1445465",
+    "FIELD3":"12/31/2013",
+    "FIELD4":"OWNER SUR",
+    "FIELD5":"ALIVE",
+    "FIELD6":"CAT",
+    "FIELD7":"SHORTHAIR",
+    "FIELD8":"DOMESTIC SH"
+  },
+  {
+    "FIELD1":"W LA",
+    "FIELD2":"A1445466",
+    "FIELD3":"12/31/2013",
+    "FIELD4":"OWNER SUR",
+    "FIELD5":"ALIVE",
+    "FIELD6":"CAT",
+    "FIELD7":"LONGHAIR",
+    "FIELD8":"DOMESTIC LH"
+  },
+  {
+    "FIELD1":"W LA",
+    "FIELD2":"A1445468",
+    "FIELD3":"12/31/2013",
+    "FIELD4":"OWNER SUR",
+    "FIELD5":"ALIVE",
+    "FIELD6":"CAT",
+    "FIELD7":"SHORTHAIR",
+    "FIELD8":"DOMESTIC SH"
+  },
+  {
+    "FIELD1":"E VALLEY",
+    "FIELD2":"A1445473",
+    "FIELD3":"12/31/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"ALIVE",
+    "FIELD6":"CAT",
+    "FIELD7":"SHORTHAIR",
+    "FIELD8":"DOMESTIC SH"
+  },
+  {
+    "FIELD1":"W VALLEY",
+    "FIELD2":"A1445474",
+    "FIELD3":"12/31/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"TERRIER",
+    "FIELD8":"TERRIER MIX"
+  },
+  {
+    "FIELD1":"W VALLEY",
+    "FIELD2":"A1445494",
+    "FIELD3":"12/31/2013",
+    "FIELD4":"POS OWNER",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"SPANIEL",
+    "FIELD8":"TIBETAN SPAN"
+  },
+  {
+    "FIELD1":"N CENTRA",
+    "FIELD2":"A1445338",
+    "FIELD3":"12/31/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"ALIVE",
+    "FIELD6":"OTHER",
+    "FIELD7":"RABBIT",
+    "FIELD8":"RABBIT SH"
+  },
+  {
+    "FIELD1":"N CENTRA",
+    "FIELD2":"A1445356",
+    "FIELD3":"12/31/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"ALIVE",
+    "FIELD6":"CAT",
+    "FIELD7":"SHORTHAIR",
+    "FIELD8":"DOMESTIC SH"
+  },
+  {
+    "FIELD1":"S LA",
+    "FIELD2":"A1445371",
+    "FIELD3":"12/31/2013",
+    "FIELD4":"OWNER SUR",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"SPITZ",
+    "FIELD8":"AKITA"
+  },
+  {
+    "FIELD1":"W VALLEY",
+    "FIELD2":"A1445373",
+    "FIELD3":"12/31/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"ALIVE",
+    "FIELD6":"CAT",
+    "FIELD7":"SHORTHAIR",
+    "FIELD8":"DOMESTIC SH"
+  },
+  {
+    "FIELD1":"S LA",
+    "FIELD2":"A1445385",
+    "FIELD3":"12/31/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"DEAD",
+    "FIELD6":"CAT",
+    "FIELD7":"SHORTHAIR",
+    "FIELD8":"DOMESTIC SH"
+  },
+  {
+    "FIELD1":"HARBOR",
+    "FIELD2":"A1445387",
+    "FIELD3":"12/31/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"POODLE",
+    "FIELD8":"POODLE TOY"
+  },
+  {
+    "FIELD1":"W LA",
+    "FIELD2":"A1445424",
+    "FIELD3":"12/31/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"TERRIER",
+    "FIELD8":"CAIRN TERRIER"
+  },
+  {
+    "FIELD1":"S LA",
+    "FIELD2":"A1445429",
+    "FIELD3":"12/31/2013",
+    "FIELD4":"EVIDENCE",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"MASTIFF",
+    "FIELD8":"PIT BULL"
+  },
+  {
+    "FIELD1":"E VALLEY",
+    "FIELD2":"A1445430",
+    "FIELD3":"12/31/2013",
+    "FIELD4":"POS OWNER",
+    "FIELD5":"ALIVE",
+    "FIELD6":"CAT",
+    "FIELD7":"SHORTHAIR",
+    "FIELD8":"AMER SH"
+  },
+  {
+    "FIELD1":"W LA",
+    "FIELD2":"A1445454",
+    "FIELD3":"12/31/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"MASTIFF",
+    "FIELD8":"STAFFORDSHIRE"
+  },
+  {
+    "FIELD1":"S LA",
+    "FIELD2":"A1445470",
+    "FIELD3":"12/31/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"TOY",
+    "FIELD8":"CHIHUAHUA SH"
+  },
+  {
+    "FIELD1":"S LA",
+    "FIELD2":"A1445471",
+    "FIELD3":"12/31/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"TOY",
+    "FIELD8":"CHIHUAHUA SH"
+  },
+  {
+    "FIELD1":"W LA",
+    "FIELD2":"A1445483",
+    "FIELD3":"12/31/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"SHEPHERD",
+    "FIELD8":"GERM SHEPHERD"
+  },
+  {
+    "FIELD1":"W VALLEY",
+    "FIELD2":"A1445485",
+    "FIELD3":"12/31/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"ALIVE",
+    "FIELD6":"CAT",
+    "FIELD7":"SHORTHAIR",
+    "FIELD8":"DOMESTIC SH"
+  },
+  {
+    "FIELD1":"E VALLEY",
+    "FIELD2":"A1445487",
+    "FIELD3":"12/31/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"TERRIER",
+    "FIELD8":"MIN PINSCHER"
+  },
+  {
+    "FIELD1":"N CENTRA",
+    "FIELD2":"A1445490",
+    "FIELD3":"12/31/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"POODLE",
+    "FIELD8":"POODLE MIN"
+  },
+  {
+    "FIELD1":"W VALLEY",
+    "FIELD2":"A1445492",
+    "FIELD3":"12/31/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"COLLIE",
+    "FIELD8":"AUST SHEPHERD"
+  },
+  {
+    "FIELD1":"E VALLEY",
+    "FIELD2":"A1445495",
+    "FIELD3":"12/31/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"DEAD",
+    "FIELD6":"DOG",
+    "FIELD7":"TOY",
+    "FIELD8":"TOY FOX TERRIER"
+  },
+  {
+    "FIELD1":"E VALLEY",
+    "FIELD2":"A1445370",
+    "FIELD3":"12/31/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"SPITZ",
+    "FIELD8":"AMER ESKIMO"
+  },
+  {
+    "FIELD1":"W VALLEY",
+    "FIELD2":"A1445379",
+    "FIELD3":"12/31/2013",
+    "FIELD4":"OWNER SUR",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"TOY",
+    "FIELD8":"POMERANIAN"
+  },
+  {
+    "FIELD1":"N CENTRA",
+    "FIELD2":"A1445384",
+    "FIELD3":"12/31/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"ALIVE",
+    "FIELD6":"CAT",
+    "FIELD7":"SHORTHAIR",
+    "FIELD8":"DOMESTIC SH"
+  },
+  {
+    "FIELD1":"N CENTRA",
+    "FIELD2":"A1445386",
+    "FIELD3":"12/31/2013",
+    "FIELD4":"OWNER SUR",
+    "FIELD5":"DEAD",
+    "FIELD6":"DOG",
+    "FIELD7":"TERRIER",
+    "FIELD8":"JACK RUSS TERR"
+  },
+  {
+    "FIELD1":"W VALLEY",
+    "FIELD2":"A1445404",
+    "FIELD3":"12/31/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"MASTIFF",
+    "FIELD8":"AMER BULLDOG"
+  },
+  {
+    "FIELD1":"S LA",
+    "FIELD2":"A1445413",
+    "FIELD3":"12/31/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"TOY",
+    "FIELD8":"SHIH TZU"
+  },
+  {
+    "FIELD1":"S LA",
+    "FIELD2":"A1445418",
+    "FIELD3":"12/31/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"DEAD",
+    "FIELD6":"CAT",
+    "FIELD7":"SHORTHAIR",
+    "FIELD8":"DOMESTIC SH"
+  },
+  {
+    "FIELD1":"S LA",
+    "FIELD2":"A1445425",
+    "FIELD3":"12/31/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"TOY",
+    "FIELD8":"CHIHUAHUA SH"
+  },
+  {
+    "FIELD1":"W VALLEY",
+    "FIELD2":"A1445431",
+    "FIELD3":"12/31/2013",
+    "FIELD4":"OWNER SUR",
+    "FIELD5":"ALIVE",
+    "FIELD6":"OTHER",
+    "FIELD7":"RODENT",
+    "FIELD8":"RAT"
+  },
+  {
+    "FIELD1":"W VALLEY",
+    "FIELD2":"A1445433",
+    "FIELD3":"12/31/2013",
+    "FIELD4":"OWNER SUR",
+    "FIELD5":"ALIVE",
+    "FIELD6":"OTHER",
+    "FIELD7":"RABBIT",
+    "FIELD8":"AMERICAN"
+  },
+  {
+    "FIELD1":"N CENTRA",
+    "FIELD2":"A1445438",
+    "FIELD3":"12/31/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"TERRIER",
+    "FIELD8":"JACK RUSS TERR"
+  },
+  {
+    "FIELD1":"S LA",
+    "FIELD2":"A1445440",
+    "FIELD3":"12/31/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"< 8 WEEKS",
+    "FIELD6":"DOG",
+    "FIELD7":"MASTIFF",
+    "FIELD8":"AM PIT BULL TER"
+  },
+  {
+    "FIELD1":"E VALLEY",
+    "FIELD2":"A1445443",
+    "FIELD3":"12/31/2013",
+    "FIELD4":"OWNER SUR",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"TERRIER",
+    "FIELD8":"TERRIER MIX"
+  },
+  {
+    "FIELD1":"W VALLEY",
+    "FIELD2":"A1445464",
+    "FIELD3":"12/31/2013",
+    "FIELD4":"WILDLIFE",
+    "FIELD5":"ALIVE",
+    "FIELD6":"BIRD",
+    "FIELD7":"WILD",
+    "FIELD8":"HAWK"
+  },
+  {
+    "FIELD1":"E VALLEY",
+    "FIELD2":"A1445469",
+    "FIELD3":"12/31/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"TOY",
+    "FIELD8":"DACHSHUND"
+  },
+  {
+    "FIELD1":"S LA",
+    "FIELD2":"A1445472",
+    "FIELD3":"12/31/2013",
+    "FIELD4":"OWNER SUR",
+    "FIELD5":"ALIVE",
+    "FIELD6":"OTHER",
+    "FIELD7":"RODENT",
+    "FIELD8":"GUINEA PIG"
+  },
+  {
+    "FIELD1":"E VALLEY",
+    "FIELD2":"A1445479",
+    "FIELD3":"12/31/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"MASTIFF",
+    "FIELD8":"AMERICAN STAFF"
+  },
+  {
+    "FIELD1":"S LA",
+    "FIELD2":"A1445484",
+    "FIELD3":"12/31/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"SETTER/RETRIEVE",
+    "FIELD8":"LABRADOR RETR"
+  },
+  {
+    "FIELD1":"E VALLEY",
+    "FIELD2":"A1445488",
+    "FIELD3":"12/31/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"DEAD",
+    "FIELD6":"DOG",
+    "FIELD7":"TOY",
+    "FIELD8":"POMERANIAN"
+  },
+  {
+    "FIELD1":"S LA",
+    "FIELD2":"A1445491",
+    "FIELD3":"12/31/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"TERRIER",
+    "FIELD8":"TERRIER MIX"
+  },
+  {
+    "FIELD1":"W VALLEY",
+    "FIELD2":"A1445493",
+    "FIELD3":"12/31/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"SPITZ",
+    "FIELD8":"AMER ESKIMO"
+  },
+  {
+    "FIELD1":"W LA",
+    "FIELD2":"A0538687",
+    "FIELD3":"12/30/2013",
+    "FIELD4":"POS OWNER",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"MASTIFF",
+    "FIELD8":"BOXER"
+  },
+  {
+    "FIELD1":"S LA",
+    "FIELD2":"A0889209",
+    "FIELD3":"12/30/2013",
+    "FIELD4":"OWNER SUR",
+    "FIELD5":"DEAD",
+    "FIELD6":"DOG",
+    "FIELD7":"MASTIFF",
+    "FIELD8":"ROTTWEILER"
+  },
+  {
+    "FIELD1":"E VALLEY",
+    "FIELD2":"A0928182",
+    "FIELD3":"12/30/2013",
+    "FIELD4":"POS OWNER",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"POODLE",
+    "FIELD8":"POODLE TOY"
+  },
+  {
+    "FIELD1":"E VALLEY",
+    "FIELD2":"A0928182",
+    "FIELD3":"12/30/2013",
+    "FIELD4":"OWNER SUR",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"POODLE",
+    "FIELD8":"POODLE TOY"
+  },
+  {
+    "FIELD1":"HARBOR",
+    "FIELD2":"A1174986",
+    "FIELD3":"12/30/2013",
+    "FIELD4":"PERS PROP",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"COLLIE",
+    "FIELD8":"BORDER COLLIE"
+  },
+  {
+    "FIELD1":"E VALLEY",
+    "FIELD2":"A1280488",
+    "FIELD3":"12/30/2013",
+    "FIELD4":"OWNER SUR",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"MASTIFF",
+    "FIELD8":"PIT BULL"
+  },
+  {
+    "FIELD1":"N CENTRA",
+    "FIELD2":"A1287078",
+    "FIELD3":"12/30/2013",
+    "FIELD4":"POS OWNER",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"SPITZ",
+    "FIELD8":"SIBERIAN HUSKY"
+  },
+  {
+    "FIELD1":"W VALLEY",
+    "FIELD2":"A1356733",
+    "FIELD3":"12/30/2013",
+    "FIELD4":"POS OWNER",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"MASTIFF",
+    "FIELD8":"STAFFORDSHIRE"
+  },
+  {
+    "FIELD1":"W VALLEY",
+    "FIELD2":"A1412460",
+    "FIELD3":"12/30/2013",
+    "FIELD4":"OWNER SUR",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"TOY",
+    "FIELD8":"CHIHUAHUA SH"
+  },
+  {
+    "FIELD1":"W LA",
+    "FIELD2":"A1423571",
+    "FIELD3":"12/30/2013",
+    "FIELD4":"OWNER SUR",
+    "FIELD5":"ALIVE",
+    "FIELD6":"CAT",
+    "FIELD7":"SHORTHAIR",
+    "FIELD8":"SNOWSHOE"
+  },
+  {
+    "FIELD1":"W VALLEY",
+    "FIELD2":"A1428167",
+    "FIELD3":"12/30/2013",
+    "FIELD4":"OWNER SUR",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"TERRIER",
+    "FIELD8":"MIN PINSCHER"
+  },
+  {
+    "FIELD1":"W LA",
+    "FIELD2":"A1429909",
+    "FIELD3":"12/30/2013",
+    "FIELD4":"OWNER SUR",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"TOY",
+    "FIELD8":"CHIHUAHUA SH"
+  },
+  {
+    "FIELD1":"S LA",
+    "FIELD2":"A1436938",
+    "FIELD3":"12/30/2013",
+    "FIELD4":"OWNER SUR",
+    "FIELD5":"ALIVE",
+    "FIELD6":"CAT",
+    "FIELD7":"SHORTHAIR",
+    "FIELD8":"DOMESTIC SH"
+  },
+  {
+    "FIELD1":"E VALLEY",
+    "FIELD2":"A1445237",
+    "FIELD3":"12/30/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"MASTIFF",
+    "FIELD8":"PIT BULL"
+  },
+  {
+    "FIELD1":"E VALLEY",
+    "FIELD2":"A1445238",
+    "FIELD3":"12/30/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"SHEPHERD",
+    "FIELD8":"GERM SHEPHERD"
+  },
+  {
+    "FIELD1":"N CENTRA",
+    "FIELD2":"A1445260",
+    "FIELD3":"12/30/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"LITTER",
+    "FIELD6":"DOG",
+    "FIELD7":"TOY",
+    "FIELD8":"CHIHUAHUA SH"
+  },
+  {
+    "FIELD1":"N CENTRA",
+    "FIELD2":"A1445261",
+    "FIELD3":"12/30/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"LITTER",
+    "FIELD6":"DOG",
+    "FIELD7":"TOY",
+    "FIELD8":"CHIHUAHUA SH"
+  },
+  {
+    "FIELD1":"N CENTRA",
+    "FIELD2":"A1445262",
+    "FIELD3":"12/30/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"LITTER",
+    "FIELD6":"DOG",
+    "FIELD7":"TOY",
+    "FIELD8":"CHIHUAHUA SH"
+  },
+  {
+    "FIELD1":"N CENTRA",
+    "FIELD2":"A1445270",
+    "FIELD3":"12/30/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"ALIVE",
+    "FIELD6":"CAT",
+    "FIELD7":"SHORTHAIR",
+    "FIELD8":"DOMESTIC SH"
+  },
+  {
+    "FIELD1":"S LA",
+    "FIELD2":"A1445271",
+    "FIELD3":"12/30/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"ALIVE",
+    "FIELD6":"CAT",
+    "FIELD7":"SHORTHAIR",
+    "FIELD8":"DOMESTIC SH"
+  },
+  {
+    "FIELD1":"S LA",
+    "FIELD2":"A1445277",
+    "FIELD3":"12/30/2013",
+    "FIELD4":"OWNER SUR",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"TOY",
+    "FIELD8":"YORKSHIRE TERR"
+  },
+  {
+    "FIELD1":"W VALLEY",
+    "FIELD2":"A1443194",
+    "FIELD3":"12/30/2013",
+    "FIELD4":"POS OWNER",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"SPITZ",
+    "FIELD8":"SIBERIAN HUSKY"
+  },
+  {
+    "FIELD1":"W VALLEY",
+    "FIELD2":"A1445213",
+    "FIELD3":"12/30/2013",
+    "FIELD4":"OWNER SUR",
+    "FIELD5":"ALIVE",
+    "FIELD6":"CAT",
+    "FIELD7":"SHORTHAIR",
+    "FIELD8":"DEVON REX"
+  },
+  {
+    "FIELD1":"W VALLEY",
+    "FIELD2":"A1445215",
+    "FIELD3":"12/30/2013",
+    "FIELD4":"OWNER SUR",
+    "FIELD5":"ALIVE",
+    "FIELD6":"CAT",
+    "FIELD7":"SHORTHAIR",
+    "FIELD8":"DOMESTIC SH"
+  },
+  {
+    "FIELD1":"N CENTRA",
+    "FIELD2":"A1445216",
+    "FIELD3":"12/30/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"MASTIFF",
+    "FIELD8":"AM PIT BULL TER"
+  },
+  {
+    "FIELD1":"N CENTRA",
+    "FIELD2":"A1445217",
+    "FIELD3":"12/30/2013",
+    "FIELD4":"POS OWNER",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"MASTIFF",
+    "FIELD8":"PIT BULL"
+  },
+  {
+    "FIELD1":"E VALLEY",
+    "FIELD2":"A1445243",
+    "FIELD3":"12/30/2013",
+    "FIELD4":"POS OWNER",
+    "FIELD5":"ALIVE",
+    "FIELD6":"BIRD",
+    "FIELD7":"WILD",
+    "FIELD8":"PIGEON"
+  },
+  {
+    "FIELD1":"W VALLEY",
+    "FIELD2":"A1445245",
+    "FIELD3":"12/30/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"DEAD",
+    "FIELD6":"CAT",
+    "FIELD7":"SHORTHAIR",
+    "FIELD8":"DOMESTIC SH"
+  },
+  {
+    "FIELD1":"W VALLEY",
+    "FIELD2":"A1445247",
+    "FIELD3":"12/30/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"ALIVE",
+    "FIELD6":"CAT",
+    "FIELD7":"SHORTHAIR",
+    "FIELD8":"DOMESTIC SH"
+  },
+  {
+    "FIELD1":"N CENTRA",
+    "FIELD2":"A1445253",
+    "FIELD3":"12/30/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"LITTER",
+    "FIELD6":"DOG",
+    "FIELD7":"TOY",
+    "FIELD8":"CHIHUAHUA SH"
+  },
+  {
+    "FIELD1":"E VALLEY",
+    "FIELD2":"A1445254",
+    "FIELD3":"12/30/2013",
+    "FIELD4":"WILDLIFE",
+    "FIELD5":"ALIVE",
+    "FIELD6":"BIRD",
+    "FIELD7":"FOWL",
+    "FIELD8":"DOVE"
+  },
+  {
+    "FIELD1":"N CENTRA",
+    "FIELD2":"A1445258",
+    "FIELD3":"12/30/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"LITTER",
+    "FIELD6":"DOG",
+    "FIELD7":"TOY",
+    "FIELD8":"CHIHUAHUA SH"
+  },
+  {
+    "FIELD1":"N CENTRA",
+    "FIELD2":"A1445259",
+    "FIELD3":"12/30/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"LITTER",
+    "FIELD6":"DOG",
+    "FIELD7":"TOY",
+    "FIELD8":"CHIHUAHUA SH"
+  },
+  {
+    "FIELD1":"S LA",
+    "FIELD2":"A1445267",
+    "FIELD3":"12/30/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"TOY",
+    "FIELD8":"CHIHUAHUA SH"
+  },
+  {
+    "FIELD1":"N CENTRA",
+    "FIELD2":"A1445268",
+    "FIELD3":"12/30/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"TOY",
+    "FIELD8":"CHIHUAHUA SH"
+  },
+  {
+    "FIELD1":"E VALLEY",
+    "FIELD2":"A1445278",
+    "FIELD3":"12/30/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"POODLE",
+    "FIELD8":"POODLE MIN"
+  },
+  {
+    "FIELD1":"N CENTRA",
+    "FIELD2":"A1445279",
+    "FIELD3":"12/30/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"MASTIFF",
+    "FIELD8":"BOXER"
+  },
+  {
+    "FIELD1":"N CENTRA",
+    "FIELD2":"A1445280",
+    "FIELD3":"12/30/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"TOY",
+    "FIELD8":"CHIHUAHUA SH"
+  },
+  {
+    "FIELD1":"S LA",
+    "FIELD2":"A1445281",
+    "FIELD3":"12/30/2013",
+    "FIELD4":"POS OWNER",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"TERRIER",
+    "FIELD8":"TERRIER MIX"
+  },
+  {
+    "FIELD1":"E VALLEY",
+    "FIELD2":"A1445286",
+    "FIELD3":"12/30/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"TERRIER",
+    "FIELD8":"TERRIER MIX"
+  },
+  {
+    "FIELD1":"W VALLEY",
+    "FIELD2":"A1445287",
+    "FIELD3":"12/30/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"MASTIFF",
+    "FIELD8":"DOGO ARGENTINO"
+  },
+  {
+    "FIELD1":"W VALLEY",
+    "FIELD2":"A1445300",
+    "FIELD3":"12/30/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"ALIVE",
+    "FIELD6":"CAT",
+    "FIELD7":"SHORTHAIR",
+    "FIELD8":"DOMESTIC SH"
+  },
+  {
+    "FIELD1":"W VALLEY",
+    "FIELD2":"A1445301",
+    "FIELD3":"12/30/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"ALIVE",
+    "FIELD6":"CAT",
+    "FIELD7":"SHORTHAIR",
+    "FIELD8":"DOMESTIC SH"
+  },
+  {
+    "FIELD1":"S LA",
+    "FIELD2":"A1445316",
+    "FIELD3":"12/30/2013",
+    "FIELD4":"EVIDENCE",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"SHEPHERD",
+    "FIELD8":"GERM SHEPHERD"
+  },
+  {
+    "FIELD1":"W VALLEY",
+    "FIELD2":"A1445317",
+    "FIELD3":"12/30/2013",
+    "FIELD4":"OWNER SUR",
+    "FIELD5":"ALIVE",
+    "FIELD6":"CAT",
+    "FIELD7":"SHORTHAIR",
+    "FIELD8":"DOMESTIC SH"
+  },
+  {
+    "FIELD1":"S LA",
+    "FIELD2":"A1445212",
+    "FIELD3":"12/30/2013",
+    "FIELD4":"OWNER SUR",
+    "FIELD5":"ALIVE",
+    "FIELD6":"CAT",
+    "FIELD7":"SHORTHAIR",
+    "FIELD8":"DOMESTIC SH"
+  },
+  {
+    "FIELD1":"E VALLEY",
+    "FIELD2":"A1445248",
+    "FIELD3":"12/30/2013",
+    "FIELD4":"POS OWNER",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"TOY",
+    "FIELD8":"POMERANIAN"
+  },
+  {
+    "FIELD1":"N CENTRA",
+    "FIELD2":"A1445256",
+    "FIELD3":"12/30/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"LITTER",
+    "FIELD6":"DOG",
+    "FIELD7":"TOY",
+    "FIELD8":"CHIHUAHUA SH"
+  },
+  {
+    "FIELD1":"N CENTRA",
+    "FIELD2":"A1445257",
+    "FIELD3":"12/30/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"LITTER",
+    "FIELD6":"DOG",
+    "FIELD7":"TOY",
+    "FIELD8":"CHIHUAHUA SH"
+  },
+  {
+    "FIELD1":"S LA",
+    "FIELD2":"A1445263",
+    "FIELD3":"12/30/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"TERRIER",
+    "FIELD8":"TERRIER MIX"
+  },
+  {
+    "FIELD1":"S LA",
+    "FIELD2":"A1445265",
+    "FIELD3":"12/30/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"TOY",
+    "FIELD8":"CHIHUAHUA SH"
+  },
+  {
+    "FIELD1":"N CENTRA",
+    "FIELD2":"A1445269",
+    "FIELD3":"12/30/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"MASTIFF",
+    "FIELD8":"AM PIT BULL TER"
+  },
+  {
+    "FIELD1":"S LA",
+    "FIELD2":"A1445273",
+    "FIELD3":"12/30/2013",
+    "FIELD4":"OWNER SUR",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"TOY",
+    "FIELD8":"PEKINGESE"
+  },
+  {
+    "FIELD1":"N CENTRA",
+    "FIELD2":"A1445274",
+    "FIELD3":"12/30/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"ALIVE",
+    "FIELD6":"CAT",
+    "FIELD7":"SHORTHAIR",
+    "FIELD8":"DOMESTIC SH"
+  },
+  {
+    "FIELD1":"W VALLEY",
+    "FIELD2":"A1445283",
+    "FIELD3":"12/30/2013",
+    "FIELD4":"OWNER SUR",
+    "FIELD5":"ALIVE",
+    "FIELD6":"BIRD",
+    "FIELD7":"FOWL",
+    "FIELD8":"CHICKEN"
+  },
+  {
+    "FIELD1":"E VALLEY",
+    "FIELD2":"A1445284",
+    "FIELD3":"12/30/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"POODLE",
+    "FIELD8":"POODLE MIN"
+  },
+  {
+    "FIELD1":"N CENTRA",
+    "FIELD2":"A1445295",
+    "FIELD3":"12/30/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"TERRIER",
+    "FIELD8":"JACK RUSS TERR"
+  },
+  {
+    "FIELD1":"W LA",
+    "FIELD2":"A1445305",
+    "FIELD3":"12/30/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"DEAD",
+    "FIELD6":"BIRD",
+    "FIELD7":"DOMESTIC",
+    "FIELD8":"CONURE"
+  },
+  {
+    "FIELD1":"E VALLEY",
+    "FIELD2":"A1445313",
+    "FIELD3":"12/30/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"TOY",
+    "FIELD8":"MALTESE"
+  },
+  {
+    "FIELD1":"N CENTRA",
+    "FIELD2":"A1445315",
+    "FIELD3":"12/30/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"ALIVE",
+    "FIELD6":"CAT",
+    "FIELD7":"SHORTHAIR",
+    "FIELD8":"SIAMESE"
+  },
+  {
+    "FIELD1":"S LA",
+    "FIELD2":"A1445318",
+    "FIELD3":"12/30/2013",
+    "FIELD4":"EVIDENCE",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"MASTIFF",
+    "FIELD8":"PIT BULL"
+  },
+  {
+    "FIELD1":"S LA",
+    "FIELD2":"A1445321",
+    "FIELD3":"12/30/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"ALIVE",
+    "FIELD6":"CAT",
+    "FIELD7":"SHORTHAIR",
+    "FIELD8":"DOMESTIC SH"
+  },
+  {
+    "FIELD1":"N CENTRA",
+    "FIELD2":"A1445328",
+    "FIELD3":"12/30/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"MASTIFF",
+    "FIELD8":"PIT BULL"
+  },
+  {
+    "FIELD1":"HARBOR",
+    "FIELD2":"A1445330",
+    "FIELD3":"12/30/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"MASTIFF",
+    "FIELD8":"AM PIT BULL TER"
+  },
+  {
+    "FIELD1":"N CENTRA",
+    "FIELD2":"A1445341",
+    "FIELD3":"12/30/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"LITTER",
+    "FIELD6":"DOG",
+    "FIELD7":"MASTIFF",
+    "FIELD8":"PIT BULL"
+  },
+  {
+    "FIELD1":"S LA",
+    "FIELD2":"A1445288",
+    "FIELD3":"12/30/2013",
+    "FIELD4":"WILDLIFE",
+    "FIELD5":"ALIVE",
+    "FIELD6":"BIRD",
+    "FIELD7":"WILD",
+    "FIELD8":"OWL"
+  },
+  {
+    "FIELD1":"E VALLEY",
+    "FIELD2":"A1445289",
+    "FIELD3":"12/30/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"ALIVE",
+    "FIELD6":"CAT",
+    "FIELD7":"LONGHAIR",
+    "FIELD8":"MAINE COON"
+  },
+  {
+    "FIELD1":"E VALLEY",
+    "FIELD2":"A1445299",
+    "FIELD3":"12/30/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"TOY",
+    "FIELD8":"BOSTON TERRIER"
+  },
+  {
+    "FIELD1":"W VALLEY",
+    "FIELD2":"A1445303",
+    "FIELD3":"12/30/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"ALIVE",
+    "FIELD6":"CAT",
+    "FIELD7":"SHORTHAIR",
+    "FIELD8":"DOMESTIC SH"
+  },
+  {
+    "FIELD1":"E VALLEY",
+    "FIELD2":"A1445306",
+    "FIELD3":"12/30/2013",
+    "FIELD4":"OWNER SUR",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"SHEPHERD",
+    "FIELD8":"GERM SHEPHERD"
+  },
+  {
+    "FIELD1":"N CENTRA",
+    "FIELD2":"A1445308",
+    "FIELD3":"12/30/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"TOY",
+    "FIELD8":"CHIHUAHUA SH"
+  },
+  {
+    "FIELD1":"E VALLEY",
+    "FIELD2":"A1445309",
+    "FIELD3":"12/30/2013",
+    "FIELD4":"OWNER SUR",
+    "FIELD5":"ALIVE",
+    "FIELD6":"OTHER",
+    "FIELD7":"REPTILE",
+    "FIELD8":"SNAKE"
+  },
+  {
+    "FIELD1":"W VALLEY",
+    "FIELD2":"A1445310",
+    "FIELD3":"12/30/2013",
+    "FIELD4":"POS OWNER",
+    "FIELD5":"ALIVE",
+    "FIELD6":"CAT",
+    "FIELD7":"SHORTHAIR",
+    "FIELD8":"DOMESTIC SH"
+  },
+  {
+    "FIELD1":"N CENTRA",
+    "FIELD2":"A1445311",
+    "FIELD3":"12/30/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"TERRIER",
+    "FIELD8":"TERRIER MIX"
+  },
+  {
+    "FIELD1":"W LA",
+    "FIELD2":"A1445323",
+    "FIELD3":"12/30/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"SETTER/RETRIEVE",
+    "FIELD8":"LABRADOR RETR"
+  },
+  {
+    "FIELD1":"E VALLEY",
+    "FIELD2":"A1445324",
+    "FIELD3":"12/30/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"HOUND",
+    "FIELD8":"BEAGLE"
+  },
+  {
+    "FIELD1":"W VALLEY",
+    "FIELD2":"A1445325",
+    "FIELD3":"12/30/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"ALIVE",
+    "FIELD6":"CAT",
+    "FIELD7":"LONGHAIR",
+    "FIELD8":"DOMESTIC LH"
+  },
+  {
+    "FIELD1":"E VALLEY",
+    "FIELD2":"A1445326",
+    "FIELD3":"12/30/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"SHEPHERD",
+    "FIELD8":"GERM SHEPHERD"
+  },
+  {
+    "FIELD1":"E VALLEY",
+    "FIELD2":"A1445332",
+    "FIELD3":"12/30/2013",
+    "FIELD4":"POS OWNER",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"MASTIFF",
+    "FIELD8":"STAFFORDSHIRE"
+  },
+  {
+    "FIELD1":"N CENTRA",
+    "FIELD2":"A1445333",
+    "FIELD3":"12/30/2013",
+    "FIELD4":"OWNER SUR",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"MASTIFF",
+    "FIELD8":"AM PIT BULL TER"
+  },
+  {
+    "FIELD1":"N CENTRA",
+    "FIELD2":"A1445335",
+    "FIELD3":"12/30/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"LITTER",
+    "FIELD6":"DOG",
+    "FIELD7":"MASTIFF",
+    "FIELD8":"PIT BULL"
+  },
+  {
+    "FIELD1":"S LA",
+    "FIELD2":"A1445319",
+    "FIELD3":"12/30/2013",
+    "FIELD4":"EVIDENCE",
+    "FIELD5":"DEAD",
+    "FIELD6":"DOG",
+    "FIELD7":"MASTIFF",
+    "FIELD8":"PIT BULL"
+  },
+  {
+    "FIELD1":"S LA",
+    "FIELD2":"A1445320",
+    "FIELD3":"12/30/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"ALIVE",
+    "FIELD6":"CAT",
+    "FIELD7":"SHORTHAIR",
+    "FIELD8":"DOMESTIC SH"
+  },
+  {
+    "FIELD1":"N CENTRA",
+    "FIELD2":"A1445340",
+    "FIELD3":"12/30/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"LITTER",
+    "FIELD6":"DOG",
+    "FIELD7":"MASTIFF",
+    "FIELD8":"PIT BULL"
+  },
+  {
+    "FIELD1":"N CENTRA",
+    "FIELD2":"A1445342",
+    "FIELD3":"12/30/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"LITTER",
+    "FIELD6":"DOG",
+    "FIELD7":"MASTIFF",
+    "FIELD8":"PIT BULL"
+  },
+  {
+    "FIELD1":"N CENTRA",
+    "FIELD2":"A1445359",
+    "FIELD3":"12/30/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"LITTER",
+    "FIELD6":"DOG",
+    "FIELD7":"MASTIFF",
+    "FIELD8":"PIT BULL"
+  },
+  {
+    "FIELD1":"S LA",
+    "FIELD2":"A1445239",
+    "FIELD3":"12/30/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"MASTIFF",
+    "FIELD8":"PIT BULL"
+  },
+  {
+    "FIELD1":"W VALLEY",
+    "FIELD2":"A1445249",
+    "FIELD3":"12/30/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"TOY",
+    "FIELD8":"PUG"
+  },
+  {
+    "FIELD1":"N CENTRA",
+    "FIELD2":"A1445255",
+    "FIELD3":"12/30/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"LITTER",
+    "FIELD6":"DOG",
+    "FIELD7":"TOY",
+    "FIELD8":"CHIHUAHUA SH"
+  },
+  {
+    "FIELD1":"S LA",
+    "FIELD2":"A1445264",
+    "FIELD3":"12/30/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"TERRIER",
+    "FIELD8":"TERRIER MIX"
+  },
+  {
+    "FIELD1":"E VALLEY",
+    "FIELD2":"A1445266",
+    "FIELD3":"12/30/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"TOY",
+    "FIELD8":"CHIHUAHUA SH"
+  },
+  {
+    "FIELD1":"W VALLEY",
+    "FIELD2":"A1445272",
+    "FIELD3":"12/30/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"ALIVE",
+    "FIELD6":"CAT",
+    "FIELD7":"SHORTHAIR",
+    "FIELD8":"DOMESTIC SH"
+  },
+  {
+    "FIELD1":"E VALLEY",
+    "FIELD2":"A1445275",
+    "FIELD3":"12/30/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"POODLE",
+    "FIELD8":"POODLE TOY"
+  },
+  {
+    "FIELD1":"S LA",
+    "FIELD2":"A1445282",
+    "FIELD3":"12/30/2013",
+    "FIELD4":"POS OWNER",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"TERRIER",
+    "FIELD8":"TERRIER MIX"
+  },
+  {
+    "FIELD1":"E VALLEY",
+    "FIELD2":"A1445285",
+    "FIELD3":"12/30/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"TOY",
+    "FIELD8":"CHIHUAHUA SH"
+  },
+  {
+    "FIELD1":"HARBOR",
+    "FIELD2":"A1445296",
+    "FIELD3":"12/30/2013",
+    "FIELD4":"WILDLIFE",
+    "FIELD5":"ALIVE",
+    "FIELD6":"BIRD",
+    "FIELD7":"WILD",
+    "FIELD8":"HAWK"
+  },
+  {
+    "FIELD1":"W VALLEY",
+    "FIELD2":"A1445302",
+    "FIELD3":"12/30/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"ALIVE",
+    "FIELD6":"CAT",
+    "FIELD7":"SHORTHAIR",
+    "FIELD8":"DOMESTIC SH"
+  },
+  {
+    "FIELD1":"W VALLEY",
+    "FIELD2":"A1445304",
+    "FIELD3":"12/30/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"ALIVE",
+    "FIELD6":"CAT",
+    "FIELD7":"SHORTHAIR",
+    "FIELD8":"DOMESTIC SH"
+  },
+  {
+    "FIELD1":"N CENTRA",
+    "FIELD2":"A1445307",
+    "FIELD3":"12/30/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"TOY",
+    "FIELD8":"CHIHUAHUA SH"
+  },
+  {
+    "FIELD1":"S LA",
+    "FIELD2":"A1445312",
+    "FIELD3":"12/30/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"TOY",
+    "FIELD8":"CHIHUAHUA SH"
+  },
+  {
+    "FIELD1":"W LA",
+    "FIELD2":"A1445322",
+    "FIELD3":"12/30/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"SETTER/RETRIEVE",
+    "FIELD8":"LABRADOR RETR"
+  },
+  {
+    "FIELD1":"S LA",
+    "FIELD2":"A1445327",
+    "FIELD3":"12/30/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"MASTIFF",
+    "FIELD8":"PIT BULL"
+  },
+  {
+    "FIELD1":"N CENTRA",
+    "FIELD2":"A1445329",
+    "FIELD3":"12/30/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"MASTIFF",
+    "FIELD8":"PIT BULL"
+  },
+  {
+    "FIELD1":"E VALLEY",
+    "FIELD2":"A1445331",
+    "FIELD3":"12/30/2013",
+    "FIELD4":"OWNER SUR",
+    "FIELD5":"DEAD",
+    "FIELD6":"CAT",
+    "FIELD7":"SHORTHAIR",
+    "FIELD8":"SIAMESE"
+  },
+  {
+    "FIELD1":"N CENTRA",
+    "FIELD2":"A1445336",
+    "FIELD3":"12/30/2013",
+    "FIELD4":"STRAY",
+    "FIELD5":"LITTER",
+    "FIELD6":"DOG",
+    "FIELD7":"MASTIFF",
+    "FIELD8":"PIT BULL"
+  },
+  {
+    "FIELD1":"S LA",
+    "FIELD2":"A0796314",
+    "FIELD3":"12/29/2013",
+    "FIELD4":"POS OWNER",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"COLLIE",
+    "FIELD8":"BORDER COLLIE"
+  },
+  {
+    "FIELD1":"E VALLEY",
+    "FIELD2":"A0796526",
+    "FIELD3":"12/29/2013",
+    "FIELD4":"OWNER SUR",
+    "FIELD5":"ALIVE",
+    "FIELD6":"DOG",
+    "FIELD7":"COLLIE",
+    "FIELD8":"AUST SHEPHERD"
+  }
+]

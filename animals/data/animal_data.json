@@ -1,0 +1,2182 @@
+[
+  {
+    "Shelter":"S LA",
+    "Animal ID#":"A0930962",
+    "Intake Date":"12/31/2013",
+    "Intake Type":"EVIDENCE",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"MASTIFF",
+    "Breed 1":"PIT BULL"
+  },
+  {
+    "Shelter":"S LA",
+    "Animal ID#":"A0930963",
+    "Intake Date":"12/31/2013",
+    "Intake Type":"EVIDENCE",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"MASTIFF",
+    "Breed 1":"PIT BULL"
+  },
+  {
+    "Shelter":"W VALLEY",
+    "Animal ID#":"A0942181",
+    "Intake Date":"12/31/2013",
+    "Intake Type":"POS OWNER",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"MASTIFF",
+    "Breed 1":"PIT BULL"
+  },
+  {
+    "Shelter":"S LA",
+    "Animal ID#":"A1083297",
+    "Intake Date":"12/31/2013",
+    "Intake Type":"POS OWNER",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"POODLE",
+    "Breed 1":"POODLE TOY"
+  },
+  {
+    "Shelter":"E VALLEY",
+    "Animal ID#":"A1318842",
+    "Intake Date":"12/31/2013",
+    "Intake Type":"OWNER SUR",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"MASTIFF",
+    "Breed 1":"STAFFORDSHIRE"
+  },
+  {
+    "Shelter":"N CENTRA",
+    "Animal ID#":"A1366983",
+    "Intake Date":"12/31/2013",
+    "Intake Type":"POS OWNER",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"HOUND",
+    "Breed 1":"BASSET HOUND"
+  },
+  {
+    "Shelter":"E VALLEY",
+    "Animal ID#":"A1384279",
+    "Intake Date":"12/31/2013",
+    "Intake Type":"OWNER SUR",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"SETTER/RETRIEVE",
+    "Breed 1":"LABRADOR RETR"
+  },
+  {
+    "Shelter":"E VALLEY",
+    "Animal ID#":"A1425394",
+    "Intake Date":"12/31/2013",
+    "Intake Type":"OWNER SUR",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"BIRD",
+    "Group":"FOWL",
+    "Breed 1":"CHICKEN"
+  },
+  {
+    "Shelter":"N CENTRA",
+    "Animal ID#":"A1425830",
+    "Intake Date":"12/31/2013",
+    "Intake Type":"OWNER SUR",
+    "Intake Condition":"DEAD",
+    "Animal Type":"DOG",
+    "Group":"TOY",
+    "Breed 1":"CHIHUAHUA SH"
+  },
+  {
+    "Shelter":"W VALLEY",
+    "Animal ID#":"A1428406",
+    "Intake Date":"12/31/2013",
+    "Intake Type":"OWNER SUR",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"CAT",
+    "Group":"LONGHAIR",
+    "Breed 1":"DOMESTIC MH"
+  },
+  {
+    "Shelter":"E VALLEY",
+    "Animal ID#":"A1429713",
+    "Intake Date":"12/31/2013",
+    "Intake Type":"OWNER SUR",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"SPITZ",
+    "Breed 1":"SIBERIAN HUSKY"
+  },
+  {
+    "Shelter":"E VALLEY",
+    "Animal ID#":"A1438933",
+    "Intake Date":"12/31/2013",
+    "Intake Type":"POS OWNER",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"MASTIFF",
+    "Breed 1":"STAFFORDSHIRE"
+  },
+  {
+    "Shelter":"S LA",
+    "Animal ID#":"A1440066",
+    "Intake Date":"12/31/2013",
+    "Intake Type":"OWNER SUR",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"MASTIFF",
+    "Breed 1":"PIT BULL"
+  },
+  {
+    "Shelter":"W LA",
+    "Animal ID#":"A1441120",
+    "Intake Date":"12/31/2013",
+    "Intake Type":"OWNER SUR",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"SETTER/RETRIEVE",
+    "Breed 1":"LABRADOR RETR"
+  },
+  {
+    "Shelter":"E VALLEY",
+    "Animal ID#":"A1441819",
+    "Intake Date":"12/31/2013",
+    "Intake Type":"OWNER SUR",
+    "Intake Condition":"DEAD",
+    "Animal Type":"DOG",
+    "Group":"SPANIEL",
+    "Breed 1":"COCKER SPAN"
+  },
+  {
+    "Shelter":"S LA",
+    "Animal ID#":"A1444221",
+    "Intake Date":"12/31/2013",
+    "Intake Type":"OWNER SUR",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"SETTER/RETRIEVE",
+    "Breed 1":"LABRADOR RETR"
+  },
+  {
+    "Shelter":"W VALLEY",
+    "Animal ID#":"A1444357",
+    "Intake Date":"12/31/2013",
+    "Intake Type":"OWNER SUR",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"SETTER/RETRIEVE",
+    "Breed 1":"LABRADOR RETR"
+  },
+  {
+    "Shelter":"W VALLEY",
+    "Animal ID#":"A1445337",
+    "Intake Date":"12/31/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"SPANIEL",
+    "Breed 1":"CAVALIER SPAN"
+  },
+  {
+    "Shelter":"W LA",
+    "Animal ID#":"A1445363",
+    "Intake Date":"12/31/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"CAT",
+    "Group":"SHORTHAIR",
+    "Breed 1":"DOMESTIC SH"
+  },
+  {
+    "Shelter":"W VALLEY",
+    "Animal ID#":"A1445365",
+    "Intake Date":"12/31/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"OTHER",
+    "Group":"RABBIT",
+    "Breed 1":"WILD"
+  },
+  {
+    "Shelter":"N CENTRA",
+    "Animal ID#":"A1445334",
+    "Intake Date":"12/31/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"LITTER",
+    "Animal Type":"DOG",
+    "Group":"MASTIFF",
+    "Breed 1":"PIT BULL"
+  },
+  {
+    "Shelter":"N CENTRA",
+    "Animal ID#":"A1445352",
+    "Intake Date":"12/31/2013",
+    "Intake Type":"POS OWNER",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"CAT",
+    "Group":"LONGHAIR",
+    "Breed 1":"DOMESTIC LH"
+  },
+  {
+    "Shelter":"E VALLEY",
+    "Animal ID#":"A1445369",
+    "Intake Date":"12/31/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"TOY",
+    "Breed 1":"CHIHUAHUA SH"
+  },
+  {
+    "Shelter":"W LA",
+    "Animal ID#":"A1445375",
+    "Intake Date":"12/31/2013",
+    "Intake Type":"OWNER SUR",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"CAT",
+    "Group":"SHORTHAIR",
+    "Breed 1":"DOMESTIC SH"
+  },
+  {
+    "Shelter":"W LA",
+    "Animal ID#":"A1445376",
+    "Intake Date":"12/31/2013",
+    "Intake Type":"OWNER SUR",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"CAT",
+    "Group":"SHORTHAIR",
+    "Breed 1":"DOMESTIC SH"
+  },
+  {
+    "Shelter":"W VALLEY",
+    "Animal ID#":"A1445377",
+    "Intake Date":"12/31/2013",
+    "Intake Type":"OWNER SUR",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"TOY",
+    "Breed 1":"POMERANIAN"
+  },
+  {
+    "Shelter":"N CENTRA",
+    "Animal ID#":"A1445380",
+    "Intake Date":"12/31/2013",
+    "Intake Type":"WILDLIFE",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"OTHER",
+    "Group":"MAMMAL",
+    "Breed 1":"OPOSSUM"
+  },
+  {
+    "Shelter":"S LA",
+    "Animal ID#":"A1445382",
+    "Intake Date":"12/31/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"MASTIFF",
+    "Breed 1":"STAFFORDSHIRE"
+  },
+  {
+    "Shelter":"HARBOR",
+    "Animal ID#":"A1445402",
+    "Intake Date":"12/31/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"TOY",
+    "Breed 1":"PAPILLON"
+  },
+  {
+    "Shelter":"S LA",
+    "Animal ID#":"A1445426",
+    "Intake Date":"12/31/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"TOY",
+    "Breed 1":"CHIHUAHUA SH"
+  },
+  {
+    "Shelter":"S LA",
+    "Animal ID#":"A1445448",
+    "Intake Date":"12/31/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"HOUND",
+    "Breed 1":"BEAGLE"
+  },
+  {
+    "Shelter":"N CENTRA",
+    "Animal ID#":"A1445449",
+    "Intake Date":"12/31/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"CAT",
+    "Group":"SHORTHAIR",
+    "Breed 1":"DOMESTIC SH"
+  },
+  {
+    "Shelter":"S LA",
+    "Animal ID#":"A1445460",
+    "Intake Date":"12/31/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"MASTIFF",
+    "Breed 1":"PIT BULL"
+  },
+  {
+    "Shelter":"W LA",
+    "Animal ID#":"A1445475",
+    "Intake Date":"12/31/2013",
+    "Intake Type":"OWNER SUR",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"CAT",
+    "Group":"SHORTHAIR",
+    "Breed 1":"DOMESTIC SH"
+  },
+  {
+    "Shelter":"N CENTRA",
+    "Animal ID#":"A1445476",
+    "Intake Date":"12/31/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"POODLE",
+    "Breed 1":"POODLE TOY"
+  },
+  {
+    "Shelter":"E VALLEY",
+    "Animal ID#":"A1445477",
+    "Intake Date":"12/31/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"MASTIFF",
+    "Breed 1":"AMERICAN STAFF"
+  },
+  {
+    "Shelter":"N CENTRA",
+    "Animal ID#":"A1445478",
+    "Intake Date":"12/31/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"SETTER/RETRIEVE",
+    "Breed 1":"GOLDEN RETR"
+  },
+  {
+    "Shelter":"S LA",
+    "Animal ID#":"A1445480",
+    "Intake Date":"12/31/2013",
+    "Intake Type":"POS OWNER",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"MASTIFF",
+    "Breed 1":"AM PIT BULL TER"
+  },
+  {
+    "Shelter":"S LA",
+    "Animal ID#":"A1445481",
+    "Intake Date":"12/31/2013",
+    "Intake Type":"POS OWNER",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"MASTIFF",
+    "Breed 1":"AM PIT BULL TER"
+  },
+  {
+    "Shelter":"N CENTRA",
+    "Animal ID#":"A1445482",
+    "Intake Date":"12/31/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"MASTIFF",
+    "Breed 1":"BOXER"
+  },
+  {
+    "Shelter":"N CENTRA",
+    "Animal ID#":"A1445486",
+    "Intake Date":"12/31/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"DEAD",
+    "Animal Type":"CAT",
+    "Group":"SHORTHAIR",
+    "Breed 1":"DOMESTIC SH"
+  },
+  {
+    "Shelter":"S LA",
+    "Animal ID#":"A1445339",
+    "Intake Date":"12/31/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"TOY",
+    "Breed 1":"YORKSHIRE TERR"
+  },
+  {
+    "Shelter":"E VALLEY",
+    "Animal ID#":"A1445361",
+    "Intake Date":"12/31/2013",
+    "Intake Type":"OWNER SUR",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"SETTER/RETRIEVE",
+    "Breed 1":"LABRADOR RETR"
+  },
+  {
+    "Shelter":"E VALLEY",
+    "Animal ID#":"A1445366",
+    "Intake Date":"12/31/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"TERRIER",
+    "Breed 1":"WEST HIGHLAND"
+  },
+  {
+    "Shelter":"E VALLEY",
+    "Animal ID#":"A1445389",
+    "Intake Date":"12/31/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"CAT",
+    "Group":"SHORTHAIR",
+    "Breed 1":"DOMESTIC SH"
+  },
+  {
+    "Shelter":"S LA",
+    "Animal ID#":"A1445392",
+    "Intake Date":"12/31/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"CAT",
+    "Group":"SHORTHAIR",
+    "Breed 1":"DOMESTIC SH"
+  },
+  {
+    "Shelter":"E VALLEY",
+    "Animal ID#":"A1445393",
+    "Intake Date":"12/31/2013",
+    "Intake Type":"POS OWNER",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"COLLIE",
+    "Breed 1":"AUST SHEPHERD"
+  },
+  {
+    "Shelter":"N CENTRA",
+    "Animal ID#":"A1445408",
+    "Intake Date":"12/31/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"CAT",
+    "Group":"LONGHAIR",
+    "Breed 1":"DOMESTIC MH"
+  },
+  {
+    "Shelter":"E VALLEY",
+    "Animal ID#":"A1445409",
+    "Intake Date":"12/31/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"< 8 WEEKS",
+    "Animal Type":"DOG",
+    "Group":"TOY",
+    "Breed 1":"CHIHUAHUA SH"
+  },
+  {
+    "Shelter":"S LA",
+    "Animal ID#":"A1445414",
+    "Intake Date":"12/31/2013",
+    "Intake Type":"OWNER SUR",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"TOY",
+    "Breed 1":"POMERANIAN"
+  },
+  {
+    "Shelter":"W LA",
+    "Animal ID#":"A1445415",
+    "Intake Date":"12/31/2013",
+    "Intake Type":"WILDLIFE",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"BIRD",
+    "Group":"WILD",
+    "Breed 1":"HAWK"
+  },
+  {
+    "Shelter":"W LA",
+    "Animal ID#":"A1445416",
+    "Intake Date":"12/31/2013",
+    "Intake Type":"OWNER SUR",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"SETTER/RETRIEVE",
+    "Breed 1":"FLAT COAT RETR"
+  },
+  {
+    "Shelter":"N CENTRA",
+    "Animal ID#":"A1445421",
+    "Intake Date":"12/31/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"TOY",
+    "Breed 1":"BOSTON TERRIER"
+  },
+  {
+    "Shelter":"W VALLEY",
+    "Animal ID#":"A1445432",
+    "Intake Date":"12/31/2013",
+    "Intake Type":"OWNER SUR",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"OTHER",
+    "Group":"RODENT",
+    "Breed 1":"RAT"
+  },
+  {
+    "Shelter":"HARBOR",
+    "Animal ID#":"A1445434",
+    "Intake Date":"12/31/2013",
+    "Intake Type":"POS OWNER",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"TERRIER",
+    "Breed 1":"TERRIER MIX"
+  },
+  {
+    "Shelter":"E VALLEY",
+    "Animal ID#":"A1445435",
+    "Intake Date":"12/31/2013",
+    "Intake Type":"WILDLIFE",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"BIRD",
+    "Group":"WILD",
+    "Breed 1":"PIGEON"
+  },
+  {
+    "Shelter":"N CENTRA",
+    "Animal ID#":"A1445436",
+    "Intake Date":"12/31/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"CAT",
+    "Group":"SHORTHAIR",
+    "Breed 1":"DOMESTIC SH"
+  },
+  {
+    "Shelter":"S LA",
+    "Animal ID#":"A1445439",
+    "Intake Date":"12/31/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"< 8 WEEKS",
+    "Animal Type":"DOG",
+    "Group":"MASTIFF",
+    "Breed 1":"AM PIT BULL TER"
+  },
+  {
+    "Shelter":"E VALLEY",
+    "Animal ID#":"A1445442",
+    "Intake Date":"12/31/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"SHEPHERD",
+    "Breed 1":"WELSH CORGI CAR"
+  },
+  {
+    "Shelter":"E VALLEY",
+    "Animal ID#":"A1445444",
+    "Intake Date":"12/31/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"TOY",
+    "Breed 1":"LHASA APSO"
+  },
+  {
+    "Shelter":"E VALLEY",
+    "Animal ID#":"A1445445",
+    "Intake Date":"12/31/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"POODLE",
+    "Breed 1":"BICHON FRISE"
+  },
+  {
+    "Shelter":"W LA",
+    "Animal ID#":"A1445456",
+    "Intake Date":"12/31/2013",
+    "Intake Type":"POS OWNER",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"MASTIFF",
+    "Breed 1":"BOXER"
+  },
+  {
+    "Shelter":"W VALLEY",
+    "Animal ID#":"A1445457",
+    "Intake Date":"12/31/2013",
+    "Intake Type":"POS OWNER",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"SETTER/RETRIEVE",
+    "Breed 1":"LABRADOR RETR"
+  },
+  {
+    "Shelter":"N CENTRA",
+    "Animal ID#":"A1445458",
+    "Intake Date":"12/31/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"TOY",
+    "Breed 1":"CHIHUAHUA SH"
+  },
+  {
+    "Shelter":"N CENTRA",
+    "Animal ID#":"A1445459",
+    "Intake Date":"12/31/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"TOY",
+    "Breed 1":"CHIHUAHUA SH"
+  },
+  {
+    "Shelter":"S LA",
+    "Animal ID#":"A1445461",
+    "Intake Date":"12/31/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"MASTIFF",
+    "Breed 1":"AMERICAN STAFF"
+  },
+  {
+    "Shelter":"W LA",
+    "Animal ID#":"A1445465",
+    "Intake Date":"12/31/2013",
+    "Intake Type":"OWNER SUR",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"CAT",
+    "Group":"SHORTHAIR",
+    "Breed 1":"DOMESTIC SH"
+  },
+  {
+    "Shelter":"W LA",
+    "Animal ID#":"A1445466",
+    "Intake Date":"12/31/2013",
+    "Intake Type":"OWNER SUR",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"CAT",
+    "Group":"LONGHAIR",
+    "Breed 1":"DOMESTIC LH"
+  },
+  {
+    "Shelter":"W LA",
+    "Animal ID#":"A1445468",
+    "Intake Date":"12/31/2013",
+    "Intake Type":"OWNER SUR",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"CAT",
+    "Group":"SHORTHAIR",
+    "Breed 1":"DOMESTIC SH"
+  },
+  {
+    "Shelter":"E VALLEY",
+    "Animal ID#":"A1445473",
+    "Intake Date":"12/31/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"CAT",
+    "Group":"SHORTHAIR",
+    "Breed 1":"DOMESTIC SH"
+  },
+  {
+    "Shelter":"W VALLEY",
+    "Animal ID#":"A1445474",
+    "Intake Date":"12/31/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"TERRIER",
+    "Breed 1":"TERRIER MIX"
+  },
+  {
+    "Shelter":"W VALLEY",
+    "Animal ID#":"A1445494",
+    "Intake Date":"12/31/2013",
+    "Intake Type":"POS OWNER",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"SPANIEL",
+    "Breed 1":"TIBETAN SPAN"
+  },
+  {
+    "Shelter":"N CENTRA",
+    "Animal ID#":"A1445338",
+    "Intake Date":"12/31/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"OTHER",
+    "Group":"RABBIT",
+    "Breed 1":"RABBIT SH"
+  },
+  {
+    "Shelter":"N CENTRA",
+    "Animal ID#":"A1445356",
+    "Intake Date":"12/31/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"CAT",
+    "Group":"SHORTHAIR",
+    "Breed 1":"DOMESTIC SH"
+  },
+  {
+    "Shelter":"S LA",
+    "Animal ID#":"A1445371",
+    "Intake Date":"12/31/2013",
+    "Intake Type":"OWNER SUR",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"SPITZ",
+    "Breed 1":"AKITA"
+  },
+  {
+    "Shelter":"W VALLEY",
+    "Animal ID#":"A1445373",
+    "Intake Date":"12/31/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"CAT",
+    "Group":"SHORTHAIR",
+    "Breed 1":"DOMESTIC SH"
+  },
+  {
+    "Shelter":"S LA",
+    "Animal ID#":"A1445385",
+    "Intake Date":"12/31/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"DEAD",
+    "Animal Type":"CAT",
+    "Group":"SHORTHAIR",
+    "Breed 1":"DOMESTIC SH"
+  },
+  {
+    "Shelter":"HARBOR",
+    "Animal ID#":"A1445387",
+    "Intake Date":"12/31/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"POODLE",
+    "Breed 1":"POODLE TOY"
+  },
+  {
+    "Shelter":"W LA",
+    "Animal ID#":"A1445424",
+    "Intake Date":"12/31/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"TERRIER",
+    "Breed 1":"CAIRN TERRIER"
+  },
+  {
+    "Shelter":"S LA",
+    "Animal ID#":"A1445429",
+    "Intake Date":"12/31/2013",
+    "Intake Type":"EVIDENCE",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"MASTIFF",
+    "Breed 1":"PIT BULL"
+  },
+  {
+    "Shelter":"E VALLEY",
+    "Animal ID#":"A1445430",
+    "Intake Date":"12/31/2013",
+    "Intake Type":"POS OWNER",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"CAT",
+    "Group":"SHORTHAIR",
+    "Breed 1":"AMER SH"
+  },
+  {
+    "Shelter":"W LA",
+    "Animal ID#":"A1445454",
+    "Intake Date":"12/31/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"MASTIFF",
+    "Breed 1":"STAFFORDSHIRE"
+  },
+  {
+    "Shelter":"S LA",
+    "Animal ID#":"A1445470",
+    "Intake Date":"12/31/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"TOY",
+    "Breed 1":"CHIHUAHUA SH"
+  },
+  {
+    "Shelter":"S LA",
+    "Animal ID#":"A1445471",
+    "Intake Date":"12/31/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"TOY",
+    "Breed 1":"CHIHUAHUA SH"
+  },
+  {
+    "Shelter":"W LA",
+    "Animal ID#":"A1445483",
+    "Intake Date":"12/31/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"SHEPHERD",
+    "Breed 1":"GERM SHEPHERD"
+  },
+  {
+    "Shelter":"W VALLEY",
+    "Animal ID#":"A1445485",
+    "Intake Date":"12/31/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"CAT",
+    "Group":"SHORTHAIR",
+    "Breed 1":"DOMESTIC SH"
+  },
+  {
+    "Shelter":"E VALLEY",
+    "Animal ID#":"A1445487",
+    "Intake Date":"12/31/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"TERRIER",
+    "Breed 1":"MIN PINSCHER"
+  },
+  {
+    "Shelter":"N CENTRA",
+    "Animal ID#":"A1445490",
+    "Intake Date":"12/31/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"POODLE",
+    "Breed 1":"POODLE MIN"
+  },
+  {
+    "Shelter":"W VALLEY",
+    "Animal ID#":"A1445492",
+    "Intake Date":"12/31/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"COLLIE",
+    "Breed 1":"AUST SHEPHERD"
+  },
+  {
+    "Shelter":"E VALLEY",
+    "Animal ID#":"A1445495",
+    "Intake Date":"12/31/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"DEAD",
+    "Animal Type":"DOG",
+    "Group":"TOY",
+    "Breed 1":"TOY FOX TERRIER"
+  },
+  {
+    "Shelter":"E VALLEY",
+    "Animal ID#":"A1445370",
+    "Intake Date":"12/31/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"SPITZ",
+    "Breed 1":"AMER ESKIMO"
+  },
+  {
+    "Shelter":"W VALLEY",
+    "Animal ID#":"A1445379",
+    "Intake Date":"12/31/2013",
+    "Intake Type":"OWNER SUR",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"TOY",
+    "Breed 1":"POMERANIAN"
+  },
+  {
+    "Shelter":"N CENTRA",
+    "Animal ID#":"A1445384",
+    "Intake Date":"12/31/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"CAT",
+    "Group":"SHORTHAIR",
+    "Breed 1":"DOMESTIC SH"
+  },
+  {
+    "Shelter":"N CENTRA",
+    "Animal ID#":"A1445386",
+    "Intake Date":"12/31/2013",
+    "Intake Type":"OWNER SUR",
+    "Intake Condition":"DEAD",
+    "Animal Type":"DOG",
+    "Group":"TERRIER",
+    "Breed 1":"JACK RUSS TERR"
+  },
+  {
+    "Shelter":"W VALLEY",
+    "Animal ID#":"A1445404",
+    "Intake Date":"12/31/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"MASTIFF",
+    "Breed 1":"AMER BULLDOG"
+  },
+  {
+    "Shelter":"S LA",
+    "Animal ID#":"A1445413",
+    "Intake Date":"12/31/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"TOY",
+    "Breed 1":"SHIH TZU"
+  },
+  {
+    "Shelter":"S LA",
+    "Animal ID#":"A1445418",
+    "Intake Date":"12/31/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"DEAD",
+    "Animal Type":"CAT",
+    "Group":"SHORTHAIR",
+    "Breed 1":"DOMESTIC SH"
+  },
+  {
+    "Shelter":"S LA",
+    "Animal ID#":"A1445425",
+    "Intake Date":"12/31/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"TOY",
+    "Breed 1":"CHIHUAHUA SH"
+  },
+  {
+    "Shelter":"W VALLEY",
+    "Animal ID#":"A1445431",
+    "Intake Date":"12/31/2013",
+    "Intake Type":"OWNER SUR",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"OTHER",
+    "Group":"RODENT",
+    "Breed 1":"RAT"
+  },
+  {
+    "Shelter":"W VALLEY",
+    "Animal ID#":"A1445433",
+    "Intake Date":"12/31/2013",
+    "Intake Type":"OWNER SUR",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"OTHER",
+    "Group":"RABBIT",
+    "Breed 1":"AMERICAN"
+  },
+  {
+    "Shelter":"N CENTRA",
+    "Animal ID#":"A1445438",
+    "Intake Date":"12/31/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"TERRIER",
+    "Breed 1":"JACK RUSS TERR"
+  },
+  {
+    "Shelter":"S LA",
+    "Animal ID#":"A1445440",
+    "Intake Date":"12/31/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"< 8 WEEKS",
+    "Animal Type":"DOG",
+    "Group":"MASTIFF",
+    "Breed 1":"AM PIT BULL TER"
+  },
+  {
+    "Shelter":"E VALLEY",
+    "Animal ID#":"A1445443",
+    "Intake Date":"12/31/2013",
+    "Intake Type":"OWNER SUR",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"TERRIER",
+    "Breed 1":"TERRIER MIX"
+  },
+  {
+    "Shelter":"W VALLEY",
+    "Animal ID#":"A1445464",
+    "Intake Date":"12/31/2013",
+    "Intake Type":"WILDLIFE",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"BIRD",
+    "Group":"WILD",
+    "Breed 1":"HAWK"
+  },
+  {
+    "Shelter":"E VALLEY",
+    "Animal ID#":"A1445469",
+    "Intake Date":"12/31/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"TOY",
+    "Breed 1":"DACHSHUND"
+  },
+  {
+    "Shelter":"S LA",
+    "Animal ID#":"A1445472",
+    "Intake Date":"12/31/2013",
+    "Intake Type":"OWNER SUR",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"OTHER",
+    "Group":"RODENT",
+    "Breed 1":"GUINEA PIG"
+  },
+  {
+    "Shelter":"E VALLEY",
+    "Animal ID#":"A1445479",
+    "Intake Date":"12/31/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"MASTIFF",
+    "Breed 1":"AMERICAN STAFF"
+  },
+  {
+    "Shelter":"S LA",
+    "Animal ID#":"A1445484",
+    "Intake Date":"12/31/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"SETTER/RETRIEVE",
+    "Breed 1":"LABRADOR RETR"
+  },
+  {
+    "Shelter":"E VALLEY",
+    "Animal ID#":"A1445488",
+    "Intake Date":"12/31/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"DEAD",
+    "Animal Type":"DOG",
+    "Group":"TOY",
+    "Breed 1":"POMERANIAN"
+  },
+  {
+    "Shelter":"S LA",
+    "Animal ID#":"A1445491",
+    "Intake Date":"12/31/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"TERRIER",
+    "Breed 1":"TERRIER MIX"
+  },
+  {
+    "Shelter":"W VALLEY",
+    "Animal ID#":"A1445493",
+    "Intake Date":"12/31/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"SPITZ",
+    "Breed 1":"AMER ESKIMO"
+  },
+  {
+    "Shelter":"W LA",
+    "Animal ID#":"A0538687",
+    "Intake Date":"12/30/2013",
+    "Intake Type":"POS OWNER",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"MASTIFF",
+    "Breed 1":"BOXER"
+  },
+  {
+    "Shelter":"S LA",
+    "Animal ID#":"A0889209",
+    "Intake Date":"12/30/2013",
+    "Intake Type":"OWNER SUR",
+    "Intake Condition":"DEAD",
+    "Animal Type":"DOG",
+    "Group":"MASTIFF",
+    "Breed 1":"ROTTWEILER"
+  },
+  {
+    "Shelter":"E VALLEY",
+    "Animal ID#":"A0928182",
+    "Intake Date":"12/30/2013",
+    "Intake Type":"POS OWNER",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"POODLE",
+    "Breed 1":"POODLE TOY"
+  },
+  {
+    "Shelter":"E VALLEY",
+    "Animal ID#":"A0928182",
+    "Intake Date":"12/30/2013",
+    "Intake Type":"OWNER SUR",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"POODLE",
+    "Breed 1":"POODLE TOY"
+  },
+  {
+    "Shelter":"HARBOR",
+    "Animal ID#":"A1174986",
+    "Intake Date":"12/30/2013",
+    "Intake Type":"PERS PROP",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"COLLIE",
+    "Breed 1":"BORDER COLLIE"
+  },
+  {
+    "Shelter":"E VALLEY",
+    "Animal ID#":"A1280488",
+    "Intake Date":"12/30/2013",
+    "Intake Type":"OWNER SUR",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"MASTIFF",
+    "Breed 1":"PIT BULL"
+  },
+  {
+    "Shelter":"N CENTRA",
+    "Animal ID#":"A1287078",
+    "Intake Date":"12/30/2013",
+    "Intake Type":"POS OWNER",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"SPITZ",
+    "Breed 1":"SIBERIAN HUSKY"
+  },
+  {
+    "Shelter":"W VALLEY",
+    "Animal ID#":"A1356733",
+    "Intake Date":"12/30/2013",
+    "Intake Type":"POS OWNER",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"MASTIFF",
+    "Breed 1":"STAFFORDSHIRE"
+  },
+  {
+    "Shelter":"W VALLEY",
+    "Animal ID#":"A1412460",
+    "Intake Date":"12/30/2013",
+    "Intake Type":"OWNER SUR",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"TOY",
+    "Breed 1":"CHIHUAHUA SH"
+  },
+  {
+    "Shelter":"W LA",
+    "Animal ID#":"A1423571",
+    "Intake Date":"12/30/2013",
+    "Intake Type":"OWNER SUR",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"CAT",
+    "Group":"SHORTHAIR",
+    "Breed 1":"SNOWSHOE"
+  },
+  {
+    "Shelter":"W VALLEY",
+    "Animal ID#":"A1428167",
+    "Intake Date":"12/30/2013",
+    "Intake Type":"OWNER SUR",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"TERRIER",
+    "Breed 1":"MIN PINSCHER"
+  },
+  {
+    "Shelter":"W LA",
+    "Animal ID#":"A1429909",
+    "Intake Date":"12/30/2013",
+    "Intake Type":"OWNER SUR",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"TOY",
+    "Breed 1":"CHIHUAHUA SH"
+  },
+  {
+    "Shelter":"S LA",
+    "Animal ID#":"A1436938",
+    "Intake Date":"12/30/2013",
+    "Intake Type":"OWNER SUR",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"CAT",
+    "Group":"SHORTHAIR",
+    "Breed 1":"DOMESTIC SH"
+  },
+  {
+    "Shelter":"E VALLEY",
+    "Animal ID#":"A1445237",
+    "Intake Date":"12/30/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"MASTIFF",
+    "Breed 1":"PIT BULL"
+  },
+  {
+    "Shelter":"E VALLEY",
+    "Animal ID#":"A1445238",
+    "Intake Date":"12/30/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"SHEPHERD",
+    "Breed 1":"GERM SHEPHERD"
+  },
+  {
+    "Shelter":"N CENTRA",
+    "Animal ID#":"A1445260",
+    "Intake Date":"12/30/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"LITTER",
+    "Animal Type":"DOG",
+    "Group":"TOY",
+    "Breed 1":"CHIHUAHUA SH"
+  },
+  {
+    "Shelter":"N CENTRA",
+    "Animal ID#":"A1445261",
+    "Intake Date":"12/30/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"LITTER",
+    "Animal Type":"DOG",
+    "Group":"TOY",
+    "Breed 1":"CHIHUAHUA SH"
+  },
+  {
+    "Shelter":"N CENTRA",
+    "Animal ID#":"A1445262",
+    "Intake Date":"12/30/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"LITTER",
+    "Animal Type":"DOG",
+    "Group":"TOY",
+    "Breed 1":"CHIHUAHUA SH"
+  },
+  {
+    "Shelter":"N CENTRA",
+    "Animal ID#":"A1445270",
+    "Intake Date":"12/30/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"CAT",
+    "Group":"SHORTHAIR",
+    "Breed 1":"DOMESTIC SH"
+  },
+  {
+    "Shelter":"S LA",
+    "Animal ID#":"A1445271",
+    "Intake Date":"12/30/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"CAT",
+    "Group":"SHORTHAIR",
+    "Breed 1":"DOMESTIC SH"
+  },
+  {
+    "Shelter":"S LA",
+    "Animal ID#":"A1445277",
+    "Intake Date":"12/30/2013",
+    "Intake Type":"OWNER SUR",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"TOY",
+    "Breed 1":"YORKSHIRE TERR"
+  },
+  {
+    "Shelter":"W VALLEY",
+    "Animal ID#":"A1443194",
+    "Intake Date":"12/30/2013",
+    "Intake Type":"POS OWNER",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"SPITZ",
+    "Breed 1":"SIBERIAN HUSKY"
+  },
+  {
+    "Shelter":"W VALLEY",
+    "Animal ID#":"A1445213",
+    "Intake Date":"12/30/2013",
+    "Intake Type":"OWNER SUR",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"CAT",
+    "Group":"SHORTHAIR",
+    "Breed 1":"DEVON REX"
+  },
+  {
+    "Shelter":"W VALLEY",
+    "Animal ID#":"A1445215",
+    "Intake Date":"12/30/2013",
+    "Intake Type":"OWNER SUR",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"CAT",
+    "Group":"SHORTHAIR",
+    "Breed 1":"DOMESTIC SH"
+  },
+  {
+    "Shelter":"N CENTRA",
+    "Animal ID#":"A1445216",
+    "Intake Date":"12/30/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"MASTIFF",
+    "Breed 1":"AM PIT BULL TER"
+  },
+  {
+    "Shelter":"N CENTRA",
+    "Animal ID#":"A1445217",
+    "Intake Date":"12/30/2013",
+    "Intake Type":"POS OWNER",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"MASTIFF",
+    "Breed 1":"PIT BULL"
+  },
+  {
+    "Shelter":"E VALLEY",
+    "Animal ID#":"A1445243",
+    "Intake Date":"12/30/2013",
+    "Intake Type":"POS OWNER",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"BIRD",
+    "Group":"WILD",
+    "Breed 1":"PIGEON"
+  },
+  {
+    "Shelter":"W VALLEY",
+    "Animal ID#":"A1445245",
+    "Intake Date":"12/30/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"DEAD",
+    "Animal Type":"CAT",
+    "Group":"SHORTHAIR",
+    "Breed 1":"DOMESTIC SH"
+  },
+  {
+    "Shelter":"W VALLEY",
+    "Animal ID#":"A1445247",
+    "Intake Date":"12/30/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"CAT",
+    "Group":"SHORTHAIR",
+    "Breed 1":"DOMESTIC SH"
+  },
+  {
+    "Shelter":"N CENTRA",
+    "Animal ID#":"A1445253",
+    "Intake Date":"12/30/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"LITTER",
+    "Animal Type":"DOG",
+    "Group":"TOY",
+    "Breed 1":"CHIHUAHUA SH"
+  },
+  {
+    "Shelter":"E VALLEY",
+    "Animal ID#":"A1445254",
+    "Intake Date":"12/30/2013",
+    "Intake Type":"WILDLIFE",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"BIRD",
+    "Group":"FOWL",
+    "Breed 1":"DOVE"
+  },
+  {
+    "Shelter":"N CENTRA",
+    "Animal ID#":"A1445258",
+    "Intake Date":"12/30/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"LITTER",
+    "Animal Type":"DOG",
+    "Group":"TOY",
+    "Breed 1":"CHIHUAHUA SH"
+  },
+  {
+    "Shelter":"N CENTRA",
+    "Animal ID#":"A1445259",
+    "Intake Date":"12/30/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"LITTER",
+    "Animal Type":"DOG",
+    "Group":"TOY",
+    "Breed 1":"CHIHUAHUA SH"
+  },
+  {
+    "Shelter":"S LA",
+    "Animal ID#":"A1445267",
+    "Intake Date":"12/30/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"TOY",
+    "Breed 1":"CHIHUAHUA SH"
+  },
+  {
+    "Shelter":"N CENTRA",
+    "Animal ID#":"A1445268",
+    "Intake Date":"12/30/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"TOY",
+    "Breed 1":"CHIHUAHUA SH"
+  },
+  {
+    "Shelter":"E VALLEY",
+    "Animal ID#":"A1445278",
+    "Intake Date":"12/30/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"POODLE",
+    "Breed 1":"POODLE MIN"
+  },
+  {
+    "Shelter":"N CENTRA",
+    "Animal ID#":"A1445279",
+    "Intake Date":"12/30/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"MASTIFF",
+    "Breed 1":"BOXER"
+  },
+  {
+    "Shelter":"N CENTRA",
+    "Animal ID#":"A1445280",
+    "Intake Date":"12/30/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"TOY",
+    "Breed 1":"CHIHUAHUA SH"
+  },
+  {
+    "Shelter":"S LA",
+    "Animal ID#":"A1445281",
+    "Intake Date":"12/30/2013",
+    "Intake Type":"POS OWNER",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"TERRIER",
+    "Breed 1":"TERRIER MIX"
+  },
+  {
+    "Shelter":"E VALLEY",
+    "Animal ID#":"A1445286",
+    "Intake Date":"12/30/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"TERRIER",
+    "Breed 1":"TERRIER MIX"
+  },
+  {
+    "Shelter":"W VALLEY",
+    "Animal ID#":"A1445287",
+    "Intake Date":"12/30/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"MASTIFF",
+    "Breed 1":"DOGO ARGENTINO"
+  },
+  {
+    "Shelter":"W VALLEY",
+    "Animal ID#":"A1445300",
+    "Intake Date":"12/30/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"CAT",
+    "Group":"SHORTHAIR",
+    "Breed 1":"DOMESTIC SH"
+  },
+  {
+    "Shelter":"W VALLEY",
+    "Animal ID#":"A1445301",
+    "Intake Date":"12/30/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"CAT",
+    "Group":"SHORTHAIR",
+    "Breed 1":"DOMESTIC SH"
+  },
+  {
+    "Shelter":"S LA",
+    "Animal ID#":"A1445316",
+    "Intake Date":"12/30/2013",
+    "Intake Type":"EVIDENCE",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"SHEPHERD",
+    "Breed 1":"GERM SHEPHERD"
+  },
+  {
+    "Shelter":"W VALLEY",
+    "Animal ID#":"A1445317",
+    "Intake Date":"12/30/2013",
+    "Intake Type":"OWNER SUR",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"CAT",
+    "Group":"SHORTHAIR",
+    "Breed 1":"DOMESTIC SH"
+  },
+  {
+    "Shelter":"S LA",
+    "Animal ID#":"A1445212",
+    "Intake Date":"12/30/2013",
+    "Intake Type":"OWNER SUR",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"CAT",
+    "Group":"SHORTHAIR",
+    "Breed 1":"DOMESTIC SH"
+  },
+  {
+    "Shelter":"E VALLEY",
+    "Animal ID#":"A1445248",
+    "Intake Date":"12/30/2013",
+    "Intake Type":"POS OWNER",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"TOY",
+    "Breed 1":"POMERANIAN"
+  },
+  {
+    "Shelter":"N CENTRA",
+    "Animal ID#":"A1445256",
+    "Intake Date":"12/30/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"LITTER",
+    "Animal Type":"DOG",
+    "Group":"TOY",
+    "Breed 1":"CHIHUAHUA SH"
+  },
+  {
+    "Shelter":"N CENTRA",
+    "Animal ID#":"A1445257",
+    "Intake Date":"12/30/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"LITTER",
+    "Animal Type":"DOG",
+    "Group":"TOY",
+    "Breed 1":"CHIHUAHUA SH"
+  },
+  {
+    "Shelter":"S LA",
+    "Animal ID#":"A1445263",
+    "Intake Date":"12/30/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"TERRIER",
+    "Breed 1":"TERRIER MIX"
+  },
+  {
+    "Shelter":"S LA",
+    "Animal ID#":"A1445265",
+    "Intake Date":"12/30/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"TOY",
+    "Breed 1":"CHIHUAHUA SH"
+  },
+  {
+    "Shelter":"N CENTRA",
+    "Animal ID#":"A1445269",
+    "Intake Date":"12/30/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"MASTIFF",
+    "Breed 1":"AM PIT BULL TER"
+  },
+  {
+    "Shelter":"S LA",
+    "Animal ID#":"A1445273",
+    "Intake Date":"12/30/2013",
+    "Intake Type":"OWNER SUR",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"TOY",
+    "Breed 1":"PEKINGESE"
+  },
+  {
+    "Shelter":"N CENTRA",
+    "Animal ID#":"A1445274",
+    "Intake Date":"12/30/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"CAT",
+    "Group":"SHORTHAIR",
+    "Breed 1":"DOMESTIC SH"
+  },
+  {
+    "Shelter":"W VALLEY",
+    "Animal ID#":"A1445283",
+    "Intake Date":"12/30/2013",
+    "Intake Type":"OWNER SUR",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"BIRD",
+    "Group":"FOWL",
+    "Breed 1":"CHICKEN"
+  },
+  {
+    "Shelter":"E VALLEY",
+    "Animal ID#":"A1445284",
+    "Intake Date":"12/30/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"POODLE",
+    "Breed 1":"POODLE MIN"
+  },
+  {
+    "Shelter":"N CENTRA",
+    "Animal ID#":"A1445295",
+    "Intake Date":"12/30/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"TERRIER",
+    "Breed 1":"JACK RUSS TERR"
+  },
+  {
+    "Shelter":"W LA",
+    "Animal ID#":"A1445305",
+    "Intake Date":"12/30/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"DEAD",
+    "Animal Type":"BIRD",
+    "Group":"DOMESTIC",
+    "Breed 1":"CONURE"
+  },
+  {
+    "Shelter":"E VALLEY",
+    "Animal ID#":"A1445313",
+    "Intake Date":"12/30/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"TOY",
+    "Breed 1":"MALTESE"
+  },
+  {
+    "Shelter":"N CENTRA",
+    "Animal ID#":"A1445315",
+    "Intake Date":"12/30/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"CAT",
+    "Group":"SHORTHAIR",
+    "Breed 1":"SIAMESE"
+  },
+  {
+    "Shelter":"S LA",
+    "Animal ID#":"A1445318",
+    "Intake Date":"12/30/2013",
+    "Intake Type":"EVIDENCE",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"MASTIFF",
+    "Breed 1":"PIT BULL"
+  },
+  {
+    "Shelter":"S LA",
+    "Animal ID#":"A1445321",
+    "Intake Date":"12/30/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"CAT",
+    "Group":"SHORTHAIR",
+    "Breed 1":"DOMESTIC SH"
+  },
+  {
+    "Shelter":"N CENTRA",
+    "Animal ID#":"A1445328",
+    "Intake Date":"12/30/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"MASTIFF",
+    "Breed 1":"PIT BULL"
+  },
+  {
+    "Shelter":"HARBOR",
+    "Animal ID#":"A1445330",
+    "Intake Date":"12/30/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"MASTIFF",
+    "Breed 1":"AM PIT BULL TER"
+  },
+  {
+    "Shelter":"N CENTRA",
+    "Animal ID#":"A1445341",
+    "Intake Date":"12/30/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"LITTER",
+    "Animal Type":"DOG",
+    "Group":"MASTIFF",
+    "Breed 1":"PIT BULL"
+  },
+  {
+    "Shelter":"S LA",
+    "Animal ID#":"A1445288",
+    "Intake Date":"12/30/2013",
+    "Intake Type":"WILDLIFE",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"BIRD",
+    "Group":"WILD",
+    "Breed 1":"OWL"
+  },
+  {
+    "Shelter":"E VALLEY",
+    "Animal ID#":"A1445289",
+    "Intake Date":"12/30/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"CAT",
+    "Group":"LONGHAIR",
+    "Breed 1":"MAINE COON"
+  },
+  {
+    "Shelter":"E VALLEY",
+    "Animal ID#":"A1445299",
+    "Intake Date":"12/30/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"TOY",
+    "Breed 1":"BOSTON TERRIER"
+  },
+  {
+    "Shelter":"W VALLEY",
+    "Animal ID#":"A1445303",
+    "Intake Date":"12/30/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"CAT",
+    "Group":"SHORTHAIR",
+    "Breed 1":"DOMESTIC SH"
+  },
+  {
+    "Shelter":"E VALLEY",
+    "Animal ID#":"A1445306",
+    "Intake Date":"12/30/2013",
+    "Intake Type":"OWNER SUR",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"SHEPHERD",
+    "Breed 1":"GERM SHEPHERD"
+  },
+  {
+    "Shelter":"N CENTRA",
+    "Animal ID#":"A1445308",
+    "Intake Date":"12/30/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"TOY",
+    "Breed 1":"CHIHUAHUA SH"
+  },
+  {
+    "Shelter":"E VALLEY",
+    "Animal ID#":"A1445309",
+    "Intake Date":"12/30/2013",
+    "Intake Type":"OWNER SUR",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"OTHER",
+    "Group":"REPTILE",
+    "Breed 1":"SNAKE"
+  },
+  {
+    "Shelter":"W VALLEY",
+    "Animal ID#":"A1445310",
+    "Intake Date":"12/30/2013",
+    "Intake Type":"POS OWNER",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"CAT",
+    "Group":"SHORTHAIR",
+    "Breed 1":"DOMESTIC SH"
+  },
+  {
+    "Shelter":"N CENTRA",
+    "Animal ID#":"A1445311",
+    "Intake Date":"12/30/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"TERRIER",
+    "Breed 1":"TERRIER MIX"
+  },
+  {
+    "Shelter":"W LA",
+    "Animal ID#":"A1445323",
+    "Intake Date":"12/30/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"SETTER/RETRIEVE",
+    "Breed 1":"LABRADOR RETR"
+  },
+  {
+    "Shelter":"E VALLEY",
+    "Animal ID#":"A1445324",
+    "Intake Date":"12/30/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"HOUND",
+    "Breed 1":"BEAGLE"
+  },
+  {
+    "Shelter":"W VALLEY",
+    "Animal ID#":"A1445325",
+    "Intake Date":"12/30/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"CAT",
+    "Group":"LONGHAIR",
+    "Breed 1":"DOMESTIC LH"
+  },
+  {
+    "Shelter":"E VALLEY",
+    "Animal ID#":"A1445326",
+    "Intake Date":"12/30/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"SHEPHERD",
+    "Breed 1":"GERM SHEPHERD"
+  },
+  {
+    "Shelter":"E VALLEY",
+    "Animal ID#":"A1445332",
+    "Intake Date":"12/30/2013",
+    "Intake Type":"POS OWNER",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"MASTIFF",
+    "Breed 1":"STAFFORDSHIRE"
+  },
+  {
+    "Shelter":"N CENTRA",
+    "Animal ID#":"A1445333",
+    "Intake Date":"12/30/2013",
+    "Intake Type":"OWNER SUR",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"MASTIFF",
+    "Breed 1":"AM PIT BULL TER"
+  },
+  {
+    "Shelter":"N CENTRA",
+    "Animal ID#":"A1445335",
+    "Intake Date":"12/30/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"LITTER",
+    "Animal Type":"DOG",
+    "Group":"MASTIFF",
+    "Breed 1":"PIT BULL"
+  },
+  {
+    "Shelter":"S LA",
+    "Animal ID#":"A1445319",
+    "Intake Date":"12/30/2013",
+    "Intake Type":"EVIDENCE",
+    "Intake Condition":"DEAD",
+    "Animal Type":"DOG",
+    "Group":"MASTIFF",
+    "Breed 1":"PIT BULL"
+  },
+  {
+    "Shelter":"S LA",
+    "Animal ID#":"A1445320",
+    "Intake Date":"12/30/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"CAT",
+    "Group":"SHORTHAIR",
+    "Breed 1":"DOMESTIC SH"
+  },
+  {
+    "Shelter":"N CENTRA",
+    "Animal ID#":"A1445340",
+    "Intake Date":"12/30/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"LITTER",
+    "Animal Type":"DOG",
+    "Group":"MASTIFF",
+    "Breed 1":"PIT BULL"
+  },
+  {
+    "Shelter":"N CENTRA",
+    "Animal ID#":"A1445342",
+    "Intake Date":"12/30/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"LITTER",
+    "Animal Type":"DOG",
+    "Group":"MASTIFF",
+    "Breed 1":"PIT BULL"
+  },
+  {
+    "Shelter":"N CENTRA",
+    "Animal ID#":"A1445359",
+    "Intake Date":"12/30/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"LITTER",
+    "Animal Type":"DOG",
+    "Group":"MASTIFF",
+    "Breed 1":"PIT BULL"
+  },
+  {
+    "Shelter":"S LA",
+    "Animal ID#":"A1445239",
+    "Intake Date":"12/30/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"MASTIFF",
+    "Breed 1":"PIT BULL"
+  },
+  {
+    "Shelter":"W VALLEY",
+    "Animal ID#":"A1445249",
+    "Intake Date":"12/30/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"TOY",
+    "Breed 1":"PUG"
+  },
+  {
+    "Shelter":"N CENTRA",
+    "Animal ID#":"A1445255",
+    "Intake Date":"12/30/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"LITTER",
+    "Animal Type":"DOG",
+    "Group":"TOY",
+    "Breed 1":"CHIHUAHUA SH"
+  },
+  {
+    "Shelter":"S LA",
+    "Animal ID#":"A1445264",
+    "Intake Date":"12/30/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"TERRIER",
+    "Breed 1":"TERRIER MIX"
+  },
+  {
+    "Shelter":"E VALLEY",
+    "Animal ID#":"A1445266",
+    "Intake Date":"12/30/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"TOY",
+    "Breed 1":"CHIHUAHUA SH"
+  },
+  {
+    "Shelter":"W VALLEY",
+    "Animal ID#":"A1445272",
+    "Intake Date":"12/30/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"CAT",
+    "Group":"SHORTHAIR",
+    "Breed 1":"DOMESTIC SH"
+  },
+  {
+    "Shelter":"E VALLEY",
+    "Animal ID#":"A1445275",
+    "Intake Date":"12/30/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"POODLE",
+    "Breed 1":"POODLE TOY"
+  },
+  {
+    "Shelter":"S LA",
+    "Animal ID#":"A1445282",
+    "Intake Date":"12/30/2013",
+    "Intake Type":"POS OWNER",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"TERRIER",
+    "Breed 1":"TERRIER MIX"
+  },
+  {
+    "Shelter":"E VALLEY",
+    "Animal ID#":"A1445285",
+    "Intake Date":"12/30/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"TOY",
+    "Breed 1":"CHIHUAHUA SH"
+  },
+  {
+    "Shelter":"HARBOR",
+    "Animal ID#":"A1445296",
+    "Intake Date":"12/30/2013",
+    "Intake Type":"WILDLIFE",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"BIRD",
+    "Group":"WILD",
+    "Breed 1":"HAWK"
+  },
+  {
+    "Shelter":"W VALLEY",
+    "Animal ID#":"A1445302",
+    "Intake Date":"12/30/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"CAT",
+    "Group":"SHORTHAIR",
+    "Breed 1":"DOMESTIC SH"
+  },
+  {
+    "Shelter":"W VALLEY",
+    "Animal ID#":"A1445304",
+    "Intake Date":"12/30/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"CAT",
+    "Group":"SHORTHAIR",
+    "Breed 1":"DOMESTIC SH"
+  },
+  {
+    "Shelter":"N CENTRA",
+    "Animal ID#":"A1445307",
+    "Intake Date":"12/30/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"TOY",
+    "Breed 1":"CHIHUAHUA SH"
+  },
+  {
+    "Shelter":"S LA",
+    "Animal ID#":"A1445312",
+    "Intake Date":"12/30/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"TOY",
+    "Breed 1":"CHIHUAHUA SH"
+  },
+  {
+    "Shelter":"W LA",
+    "Animal ID#":"A1445322",
+    "Intake Date":"12/30/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"SETTER/RETRIEVE",
+    "Breed 1":"LABRADOR RETR"
+  },
+  {
+    "Shelter":"S LA",
+    "Animal ID#":"A1445327",
+    "Intake Date":"12/30/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"MASTIFF",
+    "Breed 1":"PIT BULL"
+  },
+  {
+    "Shelter":"N CENTRA",
+    "Animal ID#":"A1445329",
+    "Intake Date":"12/30/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"MASTIFF",
+    "Breed 1":"PIT BULL"
+  },
+  {
+    "Shelter":"E VALLEY",
+    "Animal ID#":"A1445331",
+    "Intake Date":"12/30/2013",
+    "Intake Type":"OWNER SUR",
+    "Intake Condition":"DEAD",
+    "Animal Type":"CAT",
+    "Group":"SHORTHAIR",
+    "Breed 1":"SIAMESE"
+  },
+  {
+    "Shelter":"N CENTRA",
+    "Animal ID#":"A1445336",
+    "Intake Date":"12/30/2013",
+    "Intake Type":"STRAY",
+    "Intake Condition":"LITTER",
+    "Animal Type":"DOG",
+    "Group":"MASTIFF",
+    "Breed 1":"PIT BULL"
+  },
+  {
+    "Shelter":"S LA",
+    "Animal ID#":"A0796314",
+    "Intake Date":"12/29/2013",
+    "Intake Type":"POS OWNER",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"COLLIE",
+    "Breed 1":"BORDER COLLIE"
+  },
+  {
+    "Shelter":"E VALLEY",
+    "Animal ID#":"A0796526",
+    "Intake Date":"12/29/2013",
+    "Intake Type":"OWNER SUR",
+    "Intake Condition":"ALIVE",
+    "Animal Type":"DOG",
+    "Group":"COLLIE",
+    "Breed 1":"AUST SHEPHERD"
+  }
+]

@@ -1,0 +1,41 @@
+<html>
+    <head>
+        <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+        <script type="text/javascript">
+            google.load('visualization', '1', {packages:['corechart']});
+            google.setOnLoadCallback(drawChart);
+            function drawChart() {
+              var data = google.visualization.arrayToDataTable([
+                 ['Group', 'TakenIn', {color} ],
+                ['Collie', 5, {blue}],            
+                 ['Domestic', 1, {yellow}],            
+                 ['Fowl', 3, {purple}],
+                 ['Hound', 3, {red}], 
+                 ['Longhair', 6, {green}],
+                 ['Mammal', 1, {orange}],
+                 ['Mastiff', 46, {pink}], 
+                 ['Poodle', 10, {gold}], 
+                 ['Rabbit', 3, {grey}], 
+                 ['Reptile', 1, {black}], 
+                 ['Rodent', 3, {silver}], 
+                 ['Setter/Retrieve', 11, {purple}],
+                 ['Shepherd', 6, {grey}],
+                 ['Shorthair', 41,{pink}], 
+                 ['Spaniel', 3, {blue}],
+                 ['Spitz', 6,{yellow}],
+                 ['Terrier', 17, {red}],
+                 ['Toy', 46, {green}],
+                 ['Wild', 6,{gold}]
+              ]);
+                    var options = {
+                        title: 'LA Animal Intake Service Data 12/30/13 - 12/31/13'
+                    };
+                    var chart = new google.visualization.BarChart(document.getElementById('chart_div'));
+                    chart.draw(data, options);
+                    }
+        </script>
+    </head>
+    <body>
+        <div id="chart_div" style="width: 800px; height: 600px;"></div>
+    </body>
+</html>
