@@ -18,11 +18,6 @@ google.visualization.arrayToDataTable([
                     
 mongoimport --db animal_service --collection animal_service_coll --type json --file animal_data.json --jsonArray
 
-db.animal_service_coll.mapReduce(
-            function() { emit(this.Group, 1); },
-            function(key, value) { return Array.sum(value) },
-            { out: "group_counts" }
-);
 
 
 var mongoose = require('mongoose');
